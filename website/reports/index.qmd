@@ -1,0 +1,11 @@
+---
+pagetitle: Reports 
+title: Reports
+search: true
+repo-actions: false
+listing:
+    type: grid
+    categories: true
+    sort: date-meta
+
+---

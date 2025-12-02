@@ -1,0 +1,34 @@
+---
+title: "RECONNAISSANCE SOIL SURVEY OF PART. OF THE MAKUENI AREA AND DETAILED SOIL SURVEY OF THE KAMPI YA MAWE"
+description: "results of a soil survey carried out in Kenya
+as part of a training on the job, in accordance with the requirements
+of the MSc-course in Soil Science and Water Management organized by
+the Agricultural University of Wageningen, The Netherlands"
+author: "F.N. Muchenà"
+date: "1975-01-15"
+links:
+- url: "https://edepot.wur.nl/304513"
+categories: ["soil survey"]
+---
+
+This report describes the results of a soil survey carried out in Kenya
+as part of a training on the job, in accordance with the requirements
+of the MSc-course in Soil Science and Water Management organized by
+the Agricultural University of Wageningen, The Netherlands. This
+practical exercise was carried out between 2nd September and 15th
+November 1974, during which period the author was in Kenya.
+Prior to soil mapping, a preliminary study was made of the geology,
+geomorphology, hydrology, climate, population and road pattern of the
+survey area. An analysis of the aerial photographs (scale 1:25,000) was
+done and a photointerpretation map was made. At the same time, the base
+map (scale 1:100,000) for the reconnaissance soil survey was prepared.
+Two types of soil surveys were carried out, namely, a detailed soil
+survey (scale 1:2,500) of Kampi ya Mawe Agricultural Experimental Substation and a reconnaissance soil mapping (scale 1:100,000) of a part
+of Makueni area.
+All the survey work, data collection and initial compilation of the soil
+maps and land suitability classification maps were done in Kenya. The
+report was prepared in Wageningen after the fieldwork.
+Chapters 3 through 7 of this report give information about the
+reconnaissance survey, chapter. 8 is devoted to the detailed survey. 
+
+
