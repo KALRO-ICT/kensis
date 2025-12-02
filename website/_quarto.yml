@@ -1,5 +1,5 @@
 project:
-  type: website'
+  type: website
   resources:
     - img/soil-dataset.png
     - img/soil-report.png
