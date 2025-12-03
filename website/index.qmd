@@ -3,7 +3,7 @@ title: "Welcome to the Kenya Soil Survey"
 format: html
 page-layout: full
 search: true
-image: https://soilwiki.isric.org/collections/metadata:main/items/isric_10119
+image: https://files.isric.org/public/images/isric_10119.jpg
 image-alt: "Impact of soil erosion on dryland ecosystems"
 repo-actions: [edit, issue]
 
@@ -48,28 +48,41 @@ listing:
 The **Kenya Soil Survey (KSS)**, a department within [KALRO](https://www.kalro.org), provides authoritative soil information to support sustainable land management, agricultural planning, environmental monitoring, and national development.  
 :::
 
-Our mission is to generate, curate, and share high-quality soil data and knowledge for researchers, policymakers, farmers, and the public.
-
-
-## Contents of this Site:
+Our mission is to generate, curate, and share high-quality soil data and knowledge for researchers, policymakers, farmers, and the public. On this site you can find:
 
 ## [Data](data/index.qmd)
 
-Access datasets collected from soil survey missions across Kenya. Predicted distribution of soil properties (soil maps) and Soil health indicators, such as erosion risk, fertility, crop suitability.
+Access datasets collected from soil survey missions across Kenya. Predicted distribution of soil properties (soil maps) and Soil health indicators, such as erosion risk, fertility, crop suitability. [Read more about data](data.qmd)
 
 ::: {#data}
 :::
 
-[Read more about data](data.qmd)
+
 
 ## [Reports](reports/index.qmd)
 
-Learn about our methodologies and protocols through detailed documentation, including:
+Learn about our methodologies and protocols through detailed documentation. [Read more about our soil data approach](docs.qmd)
 
 ::: {#reports}
 :::
 
-[Read more about our soil data approach](docs.qmd)
+
+## Soil map
+
+<div id="map" style="with:100%;height:300px" class="rounded shadow"></div>
+ <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+ <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+  <script>
+  var map = L.map('map').setView([0, 38], 12);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 13,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
+</script>
 
 ## Our Commitment
 

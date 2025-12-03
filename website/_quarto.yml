@@ -25,7 +25,7 @@ website:
     logo-alt: "Logo of Land Soil Crop Hub"
     right:
       - text: Home
-        file: "./index.md"
+        file: "./index.qmd"
       - text: Data
         file: "data/index.qmd"
       - text: Publications
