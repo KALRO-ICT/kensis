@@ -1,0 +1,23 @@
+[
+  {
+    "listing": "/reports/index.html",
+    "items": [
+      "/reports/survey-KAMPI-YA-MAWE-1975.html",
+      "/reports/survey-busia-1991.html"
+    ]
+  },
+  {
+    "listing": "/data/index.html",
+    "items": [
+      "/data/dataset.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/reports/survey-busia-1991.html",
+      "/reports/survey-KAMPI-YA-MAWE-1975.html",
+      "/data/dataset.html"
+    ]
+  }
+]

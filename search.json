@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "reports/survey-busia-1991.html",
+    "href": "reports/survey-busia-1991.html",
+    "title": "RECONNAISSANCE SOIL SURVEY OF THE BUSIA AREA",
+    "section": "",
+    "text": "The present soil survey is the eighth in series of “Reconnaissance Soil Surveys” with multipurpose land evaluation. The survey covers one toposheet (101) at scale 1:100,000. The survey area has a substantial variation in annual rainfall with a general increase of rainfall northward and eastward away from the area bordering Lake Victoria. The drier areas bordering Lake Victoria have only one rainy season viz:- March-May, whereas in the wetter areas, the rainfall distribution is bimodal viz:- March-May and August-December periods. The variation in rainfall to some extent reflects the land use pattern which varies from mainly grazing with crop cultivation in the low rainfall areas to mainly crop cultivation with grazing in the high rainfall areas.\nThe report shows that the general pattern of the soil resources is mainly determined by the physiographic position, the kind of bedrock (parent material) and climate. Most of the soils are strongly weathered and are generally acid in nature due to the leaching of the bases. They are dominantly low in calcium, potassium and organic matter and hence nitrogen."
+  },
+  {
+    "objectID": "reports/index.html",
+    "href": "reports/index.html",
+    "title": "Reports",
+    "section": "",
+    "text": "RECONNAISSANCE SOIL SURVEY OF PART. OF THE MAKUENI AREA AND DETAILED SOIL SURVEY OF THE KAMPI YA MAWE\n\n\n\nsoil survey\n\n\n\nresults of a soil survey carried out in Kenya as part of a training on the job, in accordance with the requirements of the MSc-course in Soil Science and Water Management…\n\n\n\nF.N. Muchenà\n\n\nJan 15, 1975\n\n\n\n\n\n\n\n\n\n\n\nRECONNAISSANCE SOIL SURVEY OF THE BUSIA AREA\n\n\n\nobservations\n\n\n\nA soil sample dataset\n\n\n\nJ.R. Rachilo and D.O. Michieka\n\n\nJan 15, 1991\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "data/index.html",
+    "href": "data/index.html",
+    "title": "Data",
+    "section": "",
+    "text": "Exploratory Soil Map of Kenya. Appendix 1 to Report no. E1.\n\n\n\nobservations\n\n\n\n\n\n\nNov 7, 1980\n\n\nSombroek, W.G., Pauw, B.J.A. van der\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications Kenya Soil Survey",
+    "section": "",
+    "text": "On this page you find a list of relevant publications of the Kenya Soil Survey"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data Section Kenya Soil Survey",
+    "section": "",
+    "text": "The Kenya Soil Survey (KSS) provides soil data collected through rigorous field work, laboratory analysis, and spatial modelling.\nThis page explains how soil data are typically acquired, how soil properties are predicted and converted into maps, and how you can best explore the datasets available on this site."
+  },
+  {
+    "objectID": "data.html#how-soil-data-are-collected",
+    "href": "data.html#how-soil-data-are-collected",
+    "title": "Data Section Kenya Soil Survey",
+    "section": "1. How Soil Data Are Collected",
+    "text": "1. How Soil Data Are Collected\n\nField Surveys\nSoil data collection starts with structured field campaigns conducted across diverse landscapes in Kenya.\nTypical activities include: - Site selection using stratified sampling, transects, or grid-based designs\n- Soil profile description, including horizons, structure, colour, texture, and root distribution\n- Auger observations collected at dense sampling intervals\n- Geolocation using GPS/GNSS equipment\n- Land use and vegetation notes\n- Field photographs and sketches\nField teams follow standardized KSS procedures to ensure consistency and reproducibility.\n\n\nLaboratory Analysis\nSamples collected in the field are analysed in accredited laboratories to determine:\n\nSoil pH\n\nOrganic carbon and organic matter\n\nNitrogen, phosphorus, potassium\n\nCation exchange capacity (CEC)\n\nTexture (sand, silt, clay)\n\nMicronutrients (Fe, Mn, Cu, Zn)\n\nBulk density\n\nMineralogical characteristics (where applicable)\n\nAnalytical methods align with national and international standards (FAO, USDA, ISO)."
+  },
+  {
+    "objectID": "data.html#from-points-to-maps-predicting-soil-properties-in-space",
+    "href": "data.html#from-points-to-maps-predicting-soil-properties-in-space",
+    "title": "Data Section Kenya Soil Survey",
+    "section": "2. From Points to Maps: Predicting Soil Properties in Space",
+    "text": "2. From Points to Maps: Predicting Soil Properties in Space\nRaw field and laboratory data represent point observations—specific measurements taken at specific locations.\nTo create continuous soil maps, KSS uses predictive soil mapping (also known as digital soil mapping).\n\nEnvironmental Covariates\nSpatial predictors are assembled from multiple sources, including:\n\nSatellite imagery (e.g., vegetation indices, surface reflectance)\n\nClimate surfaces (rainfall, temperature)\n\nTerrain attributes (slope, curvature, elevation, topographic index)\n\nGeological and parent material maps\n\nLand cover and land use layers\n\nThese covariates help explain how soils vary across the landscape.\n\n\nPredictive Modelling\nCommon modelling approaches include:\n\nRandom forest and gradient boosting models\n\nGeneralized additive models\n\nMachine learning ensemble approaches\n\nGeostatistical methods (e.g., regression-kriging)\n\nHybrid models combining machine learning and spatial interpolation\n\nModels generate predictions and uncertainty layers, enabling users to understand confidence levels in each mapped product.\n\n\nMap Production\nThe output maps include:\n\nSoil property rasters at standard resolutions\n\nSoil class maps based on classification systems (e.g., WRB, USDA)\n\nSoil health indicator maps\n\nDerived suitability layers (e.g., crop suitability, erosion risk)\n\nEach map includes metadata detailing:\n\nData sources\n\nMethods\n\nUnits\n\nAccuracy statistics\n\nDate of production"
+  },
+  {
+    "objectID": "data.html#how-to-explore-the-data",
+    "href": "data.html#how-to-explore-the-data",
+    "title": "Data Section Kenya Soil Survey",
+    "section": "3. How to Explore the Data",
+    "text": "3. How to Explore the Data\n\nBrowsing the Dataset Library\nYou can explore datasets by visiting the Data or Downloads sections of this website.\nEach dataset includes: - A description of its purpose\n- Links to download raw or processed formats\n- Metadata summaries\n- Recommended software and tools for use\n\n\nExploring Maps Interactively\nMany soil maps can be viewed using interactive map tools integrated into this site or external GIS tools such as:\n\nQGIS\n\nArcGIS\n\nGoogle Earth Engine\n\nWeb map viewers (Leaflet / Mapbox-based)\n\nInteractive functions allow you to: - Zoom to your region of interest\n- Click to view predicted values\n- Overlay multiple soil layers\n- Download map tiles or full-resolution rasters\n\n\nUsing Data for Decision-Making\nThe soil datasets support many applications, including:\n\nAgricultural planning and crop suitability\n\nLand restoration and conservation design\n\nNational and county-level environmental reporting\n\nAcademic research and modelling\n\nSoil health monitoring\n\nKSS encourages users to consult the accompanying documentation to correctly interpret data and understand limitations."
+  },
+  {
+    "objectID": "data.html#learn-more",
+    "href": "data.html#learn-more",
+    "title": "Data Section Kenya Soil Survey",
+    "section": "Learn More",
+    "text": "Learn More\nTo understand sampling guidelines, laboratory standards, or modelling workflows, visit the Documentation section.\nFor recent field campaign summaries, see Publications."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the Kenya Soil Survey",
+    "section": "",
+    "text": "The Kenya Soil Survey (KSS) is a national centre of excellence dedicated to the generation, analysis, and dissemination of soil and land resources information. As a department within the Kenya Agricultural and Livestock Research Organization (KALRO), KSS plays a central role in supporting sustainable agriculture, natural resource management, and environmental stewardship across Kenya.\n\n\n\nThe mandate of the Kenya Soil Survey includes:\n\n\nConduct systematic surveys, mapping, and characterization of soil and land resources at national, regional, and local scales.\n\n\n\nProvide accredited laboratory services for soil, plant, and water analysis, ensuring reliable and standardized results.\n\n\n\nDevelop and maintain national soil databases, maps, and decision-support tools for researchers, policymakers, planners, and the public.\n\n\n\nAdvise on soil suitability, soil fertility management, land use planning, and sustainable agricultural intensification.\n\n\n\nSupport land restoration, climate change adaptation, and environmental conservation programs through soil monitoring and reporting.\n\n\n\nStrengthen partnerships with counties, universities, regional and international organizations, and provide training in soil science and geospatial technologies.\n\n\n\n\n\n\nTo be a leading centre for soil and land resources information, enabling sustainable agricultural development and environmental management in Kenya.\n\n\n\n\n\n\nTo generate, analyse, and disseminate high-quality soil and land data through scientific research, innovation, and partnerships that support informed decision-making.\n\n\n\n\n\nThe Kenya Soil Survey has a long and distinguished history in Kenya’s agricultural and environmental research landscape.\n\n\nKSS was established in the early 1970s to meet the growing need for detailed soil information for agricultural planning and land development. Early work focused on reconnaissance and semi-detailed surveys across major agricultural regions.\n\n\n\nThroughout the 1980s and 1990s, KSS produced Kenya’s foundational soil maps and reports, many of which are still widely referenced. These included soil classification maps, land capability assessments, and agro-ecological studies.\n\n\n\nFrom the 2000s onward, KSS modernized its operations, integrating digital soil mapping, GIS, remote sensing, and advanced laboratory technologies.\nThe digital era enabled the transition from traditional survey methods to modelling-based predictions and national-scale soil data products.\n\n\n\nWith the formation of the Kenya Agricultural and Livestock Research Organization (KALRO), KSS became a core department supporting national research, policy, and innovation systems.\n\n\n\nToday, KSS is recognized as the national authority on soil information—supporting agriculture, climate action, land restoration, food security, and environmental monitoring through science-driven soil data.\n\n\n\n\n\nKSS continues to innovate in:\n\nDigital soil mapping and modelling\n\nSoil health monitoring\n\nGeospatial analysis and big data\n\nDecision-support tools for farmers and planners\n\nOpen data and knowledge sharing\n\nBy advancing soil science and technology, the Kenya Soil Survey remains committed to improving livelihoods and ensuring sustainable use of Kenya’s land and soil resources."
+  },
+  {
+    "objectID": "about.html#mandate",
+    "href": "about.html#mandate",
+    "title": "About the Kenya Soil Survey",
+    "section": "",
+    "text": "The mandate of the Kenya Soil Survey includes:\n\n\nConduct systematic surveys, mapping, and characterization of soil and land resources at national, regional, and local scales.\n\n\n\nProvide accredited laboratory services for soil, plant, and water analysis, ensuring reliable and standardized results.\n\n\n\nDevelop and maintain national soil databases, maps, and decision-support tools for researchers, policymakers, planners, and the public.\n\n\n\nAdvise on soil suitability, soil fertility management, land use planning, and sustainable agricultural intensification.\n\n\n\nSupport land restoration, climate change adaptation, and environmental conservation programs through soil monitoring and reporting.\n\n\n\nStrengthen partnerships with counties, universities, regional and international organizations, and provide training in soil science and geospatial technologies."
+  },
+  {
+    "objectID": "about.html#vision",
+    "href": "about.html#vision",
+    "title": "About the Kenya Soil Survey",
+    "section": "",
+    "text": "To be a leading centre for soil and land resources information, enabling sustainable agricultural development and environmental management in Kenya."
+  },
+  {
+    "objectID": "about.html#mission",
+    "href": "about.html#mission",
+    "title": "About the Kenya Soil Survey",
+    "section": "",
+    "text": "To generate, analyse, and disseminate high-quality soil and land data through scientific research, innovation, and partnerships that support informed decision-making."
+  },
+  {
+    "objectID": "about.html#history",
+    "href": "about.html#history",
+    "title": "About the Kenya Soil Survey",
+    "section": "",
+    "text": "The Kenya Soil Survey has a long and distinguished history in Kenya’s agricultural and environmental research landscape.\n\n\nKSS was established in the early 1970s to meet the growing need for detailed soil information for agricultural planning and land development. Early work focused on reconnaissance and semi-detailed surveys across major agricultural regions.\n\n\n\nThroughout the 1980s and 1990s, KSS produced Kenya’s foundational soil maps and reports, many of which are still widely referenced. These included soil classification maps, land capability assessments, and agro-ecological studies.\n\n\n\nFrom the 2000s onward, KSS modernized its operations, integrating digital soil mapping, GIS, remote sensing, and advanced laboratory technologies.\nThe digital era enabled the transition from traditional survey methods to modelling-based predictions and national-scale soil data products.\n\n\n\nWith the formation of the Kenya Agricultural and Livestock Research Organization (KALRO), KSS became a core department supporting national research, policy, and innovation systems.\n\n\n\nToday, KSS is recognized as the national authority on soil information—supporting agriculture, climate action, land restoration, food security, and environmental monitoring through science-driven soil data."
+  },
+  {
+    "objectID": "about.html#looking-ahead",
+    "href": "about.html#looking-ahead",
+    "title": "About the Kenya Soil Survey",
+    "section": "",
+    "text": "KSS continues to innovate in:\n\nDigital soil mapping and modelling\n\nSoil health monitoring\n\nGeospatial analysis and big data\n\nDecision-support tools for farmers and planners\n\nOpen data and knowledge sharing\n\nBy advancing soil science and technology, the Kenya Soil Survey remains committed to improving livelihoods and ensuring sustainable use of Kenya’s land and soil resources."
+  },
+  {
+    "objectID": "docs.html",
+    "href": "docs.html",
+    "title": "Documentation",
+    "section": "",
+    "text": "This section provides detailed guidance on the procedures, standards, and workflows used by the Kenya Soil Survey (KSS).\nWhether you are working with field data, laboratory analyses, or predictive soil mapping products, these documents will help you understand the methods behind the datasets."
+  },
+  {
+    "objectID": "docs.html#field-sampling-guidelines",
+    "href": "docs.html#field-sampling-guidelines",
+    "title": "Documentation",
+    "section": "1. Field Sampling Guidelines",
+    "text": "1. Field Sampling Guidelines\nAccurate, standardized field data are the foundation of high-quality soil information.\nOur sampling guidelines cover:\n\nSite Selection\n\nStratified sampling\n\nTransects and grid-based approaches\n\nLandscape and ecological stratification\n\nAccessibility and safety considerations\n\n\n\nField Procedures\n\nSoil profile excavation and horizon identification\n\nAuger observations\n\nRecording of colour, texture, structure, roots, stoniness, mottles\n\nGeoreferencing with GPS/GNSS\n\nField photography and metadata standards\n\n\n\nSample Handling\n\nSample labeling conventions\n\nStorage and preservation requirements\n\nChain-of-custody procedures\n\nA full Field Sampling Manual will be available for download here."
+  },
+  {
+    "objectID": "docs.html#laboratory-standards-and-analytical-procedures",
+    "href": "docs.html#laboratory-standards-and-analytical-procedures",
+    "title": "Documentation",
+    "section": "2. Laboratory Standards and Analytical Procedures",
+    "text": "2. Laboratory Standards and Analytical Procedures\nLaboratory analyses are performed using accredited and internationally recognized methods.\n\nAnalytical Methods\nWe follow national and international standards, including:\n- ISO methods for chemical and physical analysis\n- FAO and USDA soil testing procedures\n- Standard operating protocols (SOPs) for KSS laboratories\n\n\nParameters Typically Analysed\n\npH (water and KCl)\n\nOrganic carbon\n\nTotal nitrogen\n\nAvailable phosphorus & potassium\n\nCation exchange capacity (CEC)\n\nParticle size distribution (texture)\n\nMicronutrients (Zn, Cu, Mn, Fe)\n\nBulk density\n\n\n\nQuality Assurance\n\nCalibration procedures\n\nUse of blanks, standards, and duplicates\n\nData validation workflows\n\nA Laboratory Standards & SOPs document will be provided in this section."
+  },
+  {
+    "objectID": "docs.html#modelling-workflows-for-soil-prediction",
+    "href": "docs.html#modelling-workflows-for-soil-prediction",
+    "title": "Documentation",
+    "section": "3. Modelling Workflows for Soil Prediction",
+    "text": "3. Modelling Workflows for Soil Prediction\nKSS uses digital soil mapping (DSM) approaches to transform point observations into continuous maps.\n\nModelling Framework\nWorkflows typically include:\n- Data preprocessing\n- Covariate assembly (satellite data, terrain models, climate layers, geology)\n- Model selection and tuning\n- Ensemble predictions\n- Regression-kriging or hybrid geostatistical approaches\n\n\nOutput Products\n\nSoil property rasters\n\nSoil class maps\n\nSoil health indicator layers\n\nUncertainty maps\n\n\n\nValidation and Accuracy Assessment\nWe apply standard validation methods such as:\n- k-fold cross-validation\n- Independent test sets\n- RMSE, R², CCC, and bias statistics\n- Spatial cross-validation when appropriate\n\n\nReproducibility\nAll modelling workflows include:\n- Metadata\n- Version control\n- Documentation of covariate sources and resolutions\n- Traceable modelling scripts (available upon request)\nA full Digital Soil Mapping Workflow Guide will be included here."
+  },
+  {
+    "objectID": "docs.html#metadata-and-data-standards",
+    "href": "docs.html#metadata-and-data-standards",
+    "title": "Documentation",
+    "section": "4. Metadata and Data Standards",
+    "text": "4. Metadata and Data Standards\nAll datasets include standardized metadata that describe: - Purpose of the dataset\n- Sampling methodology\n- Laboratory methods\n- Spatial resolution and coordinate system\n- Modelling methods\n- Accuracy and limitations\n- Citation guidelines\nMetadata follow conventions aligned with FAO, ISO 19115, and national data-sharing policies."
+  },
+  {
+    "objectID": "docs.html#additional-resources",
+    "href": "docs.html#additional-resources",
+    "title": "Documentation",
+    "section": "5. Additional Resources",
+    "text": "5. Additional Resources\n\nField Sampling Manual (PDF)\n\nLaboratory SOPs\n\nDSM Workflow Guide\n\nMetadata Templates\n\nExample QGIS/ArcGIS project files\n\nCovariate documentation"
+  },
+  {
+    "objectID": "data/dataset.html",
+    "href": "data/dataset.html",
+    "title": "Exploratory Soil Map of Kenya. Appendix 1 to Report no. E1.",
+    "section": "",
+    "text": "a soil map of kenya"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Kenya Soil Survey",
+    "section": "",
+    "text": "Our mission is to generate, curate, and share high-quality soil data and knowledge for researchers, policymakers, farmers, and the public."
+  },
+  {
+    "objectID": "index.html#contents-of-this-site",
+    "href": "index.html#contents-of-this-site",
+    "title": "Welcome to the Kenya Soil Survey",
+    "section": "Contents of this Site:",
+    "text": "Contents of this Site:"
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "Welcome to the Kenya Soil Survey",
+    "section": "Data",
+    "text": "Data\nAccess datasets collected from soil survey missions across Kenya. Predicted distribution of soil properties (soil maps) and Soil health indicators, such as erosion risk, fertility, crop suitability.\n\n\n\n\n\n\n\n\n\n\nExploratory Soil Map of Kenya. Appendix 1 to Report no. E1.\n\n\n\n\n\n\nSombroek, W.G., Pauw, B.J.A. van der\n\n\nNov 7, 1980\n\n\n\n\n\n\nNo matching items\n\nRead more about data"
+  },
+  {
+    "objectID": "index.html#reports",
+    "href": "index.html#reports",
+    "title": "Welcome to the Kenya Soil Survey",
+    "section": "Reports",
+    "text": "Reports\nLearn about our methodologies and protocols through detailed documentation, including:\n\n\n\n\n\n\n\n\nRECONNAISSANCE SOIL SURVEY OF THE BUSIA AREA\n\n\nA soil sample dataset\n\n\n\nJ.R. Rachilo and D.O. Michieka\n\n\nJan 15, 1991\n\n\n\n\n\n\n\n\n\n\n\nRECONNAISSANCE SOIL SURVEY OF PART. OF THE MAKUENI AREA AND DETAILED SOIL SURVEY OF THE KAMPI YA MAWE\n\n\nresults of a soil survey carried out in Kenya as part of a training on the job, in accordance with the requirements of the MSc-course in Soil Science and Water Management…\n\n\n\nF.N. Muchenà\n\n\nJan 15, 1975\n\n\n\n\n\n\nNo matching items\n\nRead more about our soil data approach"
+  },
+  {
+    "objectID": "index.html#our-commitment",
+    "href": "index.html#our-commitment",
+    "title": "Welcome to the Kenya Soil Survey",
+    "section": "Our Commitment",
+    "text": "Our Commitment\nThe Kenya Soil Survey is committed to: - Providing open, high-quality soil information\n- Supporting evidence-based decision-making\n- Advancing soil science research in Kenya\n- Enabling sustainable management of natural resources\nWe hope this platform will be a valuable resource for everyone interested in Kenya’s soils."
+  },
+  {
+    "objectID": "index.html#start-exploring",
+    "href": "index.html#start-exploring",
+    "title": "Welcome to the Kenya Soil Survey",
+    "section": "Start Exploring",
+    "text": "Start Exploring\nUse the navigation menu to browse datasets, maps, documentation.\nIf you have questions or need support, feel free to contact the Kenya Soil Survey team at soil@kalro.org."
+  },
+  {
+    "objectID": "reports/survey-KAMPI-YA-MAWE-1975.html",
+    "href": "reports/survey-KAMPI-YA-MAWE-1975.html",
+    "title": "RECONNAISSANCE SOIL SURVEY OF PART. OF THE MAKUENI AREA AND DETAILED SOIL SURVEY OF THE KAMPI YA MAWE",
+    "section": "",
+    "text": "This report describes the results of a soil survey carried out in Kenya as part of a training on the job, in accordance with the requirements of the MSc-course in Soil Science and Water Management organized by the Agricultural University of Wageningen, The Netherlands. This practical exercise was carried out between 2nd September and 15th November 1974, during which period the author was in Kenya. Prior to soil mapping, a preliminary study was made of the geology, geomorphology, hydrology, climate, population and road pattern of the survey area. An analysis of the aerial photographs (scale 1:25,000) was done and a photointerpretation map was made. At the same time, the base map (scale 1:100,000) for the reconnaissance soil survey was prepared. Two types of soil surveys were carried out, namely, a detailed soil survey (scale 1:2,500) of Kampi ya Mawe Agricultural Experimental Substation and a reconnaissance soil mapping (scale 1:100,000) of a part of Makueni area. All the survey work, data collection and initial compilation of the soil maps and land suitability classification maps were done in Kenya. The report was prepared in Wageningen after the fieldwork. Chapters 3 through 7 of this report give information about the reconnaissance survey, chapter. 8 is devoted to the detailed survey."
+  }
+]
