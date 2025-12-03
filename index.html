@@ -369,7 +369,6 @@ window.Quarto = {
 
 
 
-<p><br><br></p>
 <div class="quarto-about-solana column-page">
   <div class="about-entity">
     <div class="entity-contents">
@@ -381,10 +380,8 @@ window.Quarto = {
   </div>
 </header> 
       <div class="about-contents"><div id="hero-heading">
-<section id="welcome-to-kenia-soil-survey" class="level3">
-<h3 data-anchor-id="welcome-to-kenia-soil-survey">Welcome to Kenia Soil Survey</h3>
 <p>The <strong>Kenya Soil Survey (KSS)</strong>, a department within <a href="https://www.kalro.org">KALRO</a>, provides authoritative soil information to support sustainable land management, agricultural planning, environmental monitoring, and national development.</p>
-</section>
+<p>Our mission is to generate, curate, and share high-quality soil data and knowledge for researchers, policymakers, farmers, and the public. On this site you can find:</p>
 </div></div>
     </div>
     <img src="https://files.isric.org/public/images/isric_10119.jpg" alt="Impact of soil erosion on dryland ecosystems" class="about-image
@@ -392,13 +389,12 @@ window.Quarto = {
   </div>
 </div>
 
-<p>Our mission is to generate, curate, and share high-quality soil data and knowledge for researchers, policymakers, farmers, and the public. On this site you can find:</p>
 <section id="data" class="level2">
 <h2 data-anchor-id="data"><a href="./data/index.html">Data</a></h2>
 <p>Access datasets collected from soil survey missions across Kenya. Predicted distribution of soil properties (soil maps) and Soil health indicators, such as erosion risk, fertility, crop suitability. <a href="data.qmd">Read more about data</a></p>
 <div id="listing-data" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="b2JzZXJ2YXRpb25z" data-listing-date-sort="342403200000" data-listing-file-modified-sort="1764777925739" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<div class="g-col-1" data-index="0" data-categories="b2JzZXJ2YXRpb25z" data-listing-date-sort="342403200000" data-listing-file-modified-sort="1764778937369" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
 <a href="./data/dataset.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -431,7 +427,7 @@ Nov 7, 1980
 <p>Learn about our methodologies and protocols through detailed documentation. <a href="docs.qmd">Read more about our soil data approach</a></p>
 <div id="listing-reports" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="b2JzZXJ2YXRpb25z" data-listing-date-sort="663897600000" data-listing-file-modified-sort="1764777925740" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
+<div class="g-col-1" data-index="0" data-categories="b2JzZXJ2YXRpb25z" data-listing-date-sort="663897600000" data-listing-file-modified-sort="1764778937370" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
 <a href="./reports/survey-busia-1991.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="./img/soil-report.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -453,7 +449,7 @@ Jan 15, 1991
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="c29pbCUyMHN1cnZleQ==" data-listing-date-sort="158976000000" data-listing-file-modified-sort="1764777925740" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
+<div class="g-col-1" data-index="1" data-categories="c29pbCUyMHN1cnZleQ==" data-listing-date-sort="158976000000" data-listing-file-modified-sort="1764778937370" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
 <a href="./reports/survey-KAMPI-YA-MAWE-1975.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="./img/soil-report.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -481,7 +477,7 @@ Jan 15, 1975
 </section>
 <section id="soil-map" class="level2">
 <h2 data-anchor-id="soil-map">Soil map</h2>
-<div id="map" class="rounded shadow" style="with:100%;height:300px">
+<div id="map" class="rounded shadow" style="with:100%;height:350px">
 
 </div>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
@@ -489,10 +485,11 @@ Jan 15, 1975
 <script>
   var map = L.map('map').setView([0, 38], 12);
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 13,
+    maxZoom: 8,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
 </script>
+<style>.leaflet-attribution-flag {display:none}</style>
 </section>
 <section id="our-commitment" class="level2">
 <h2 data-anchor-id="our-commitment">Our Commitment</h2>
@@ -504,7 +501,7 @@ Jan 15, 1975
 </section>
 <section id="start-exploring" class="level2">
 <h2 data-anchor-id="start-exploring">Start Exploring</h2>
-<p>Use the navigation menu to browse datasets, maps, documentation.</p>
+<p>Use the navigation menu to <a href="./data/index.html">browse datasets</a>, <a href="./docs.html">documentation</a>, <a href="./about.html">about KSS</a>.</p>
 <p>If you have questions or need support, feel free to contact the Kenya Soil Survey team at <a href="mailto:soil@kalro.org">soil@kalro.org</a>.</p>
 
 
