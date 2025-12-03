@@ -3,7 +3,7 @@ title: "Welcome to the Kenya Soil Survey"
 format: html
 page-layout: full
 search: true
-image: https://lschub.kalro.org/img/martin-yegon-Q8PAVNd36cQ.png
+image: ./img/kenya-soil-scientist.jpg
 image-alt: "Impact of soil erosion on dryland ecosystems"
 repo-actions: [edit, issue]
 
@@ -43,14 +43,14 @@ listing:
 ::: {#hero-heading}
 The **Kenya Soil Survey (KSS)**, a department within [KALRO](https://www.kalro.org), provides authoritative soil information to support sustainable land management, agricultural planning, environmental monitoring, and national development.  
 
-Our mission is to generate, curate, and share high-quality soil data and knowledge for researchers, policymakers, farmers, and the public. On this site you can find:
+Our mission is to generate, curate, and share high-quality soil data and knowledge for researchers, policymakers, farmers, and the public.
 :::
 
 &nbsp;
 
 ## [Data](data/index.qmd)
 
-Access datasets collected from soil survey missions across Kenya. Predicted distribution of soil properties (soil maps) and Soil health indicators, such as erosion risk, fertility, crop suitability. [Read more about data](data.qmd)
+Access datasets collected from soil survey missions across Kenya. Predicted distribution of soil properties (soil maps) and Soil health indicators, such as erosion risk, fertility, crop suitability. [Read more about data](data.md)
 
 ::: {#data}
 :::
@@ -59,7 +59,7 @@ Access datasets collected from soil survey missions across Kenya. Predicted dist
 
 ## [Reports](reports/index.qmd)
 
-Learn about our methodologies and protocols through detailed documentation. [Read more about our soil data approach](docs.qmd)
+Learn about our methodologies and protocols through detailed documentation. [Read more about our soil data approach](docs.md)
 
 ::: {#reports}
 :::
