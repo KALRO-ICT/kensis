@@ -1,0 +1,12 @@
+---
+title: "Biotic Communities of Kenya."
+description: ""
+author: "Kiilu, J., Dean, P.B., Trump, E.C."
+date: "1983-01-01"
+image: "https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/ico/afr_kebc.jpg"
+links:
+- url: https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/PDF/afr_kebc.pdf
+categories: [observations]
+---
+
+

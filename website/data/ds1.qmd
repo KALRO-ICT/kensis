@@ -9,4 +9,3 @@ links:
 categories: [observations]
 ---
 
-a soil map of kenya

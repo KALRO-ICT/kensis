@@ -1,0 +1,10 @@
+---
+title: Arid and Semi-Arid Lands. Landforms and Soils of Baringo District. Site evaluation for rangeland use. Report no. P20.
+description: ""
+author: "Touber, L."
+date: "1989-01-01"
+image: "https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/afr_keblfs.jpg"
+links:
+- url: https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/afr_keblfs.jpg
+categories: [observations]
+---
