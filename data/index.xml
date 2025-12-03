@@ -11,24 +11,61 @@
 <description>Data provided by Kenya Soil Survey&lt;br&gt;
 </description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Fri, 07 Nov 1980 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 01 Jan 1989 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Exploratory Soil Map of Kenya. Appendix 1 to Report no. E1.</title>
-  <dc:creator>Sombroek, W.G., Pauw, B.J.A. van der</dc:creator>
-  <link>https://KALRO-ICT.github.io/kensis/data/dataset.html</link>
+  <title>Arid and Semi-Arid Lands. Landforms and Soils of Baringo District. Site evaluation for rangeland use. Report no. P20.</title>
+  <dc:creator>Touber, L.</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/ds3.html</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>a soil map of kenya</p>
 
 
 
  ]]></description>
   <category>observations</category>
-  <guid>https://KALRO-ICT.github.io/kensis/data/dataset.html</guid>
+  <guid>https://KALRO-ICT.github.io/kensis/data/ds3.html</guid>
+  <pubDate>Sun, 01 Jan 1989 00:00:00 GMT</pubDate>
+  <media:content url="https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/afr_keblfs.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Biotic Communities of Kenya.</title>
+  <dc:creator>Kiilu, J., Dean, P.B., Trump, E.C.</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/ds2.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>observations</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/ds2.html</guid>
+  <pubDate>Sat, 01 Jan 1983 00:00:00 GMT</pubDate>
+  <media:content url="https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/ico/afr_kebc.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Exploratory Soil Map of Kenya. Appendix 1 to Report no. E1.</title>
+  <dc:creator>Sombroek, W.G., Pauw, B.J.A. van der</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/ds1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>observations</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/ds1.html</guid>
   <pubDate>Fri, 07 Nov 1980 00:00:00 GMT</pubDate>
   <media:content url="https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/afr_keesm.jpg" medium="image" type="image/jpeg"/>
 </item>

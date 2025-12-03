@@ -9,7 +9,9 @@
   {
     "listing": "/data/index.html",
     "items": [
-      "/data/dataset.html"
+      "/data/ds3.html",
+      "/data/ds2.html",
+      "/data/ds1.html"
     ]
   },
   {
@@ -17,7 +19,9 @@
     "items": [
       "/reports/survey-busia-1991.html",
       "/reports/survey-KAMPI-YA-MAWE-1975.html",
-      "/data/dataset.html"
+      "/data/ds3.html",
+      "/data/ds2.html",
+      "/data/ds1.html"
     ]
   }
 ]
