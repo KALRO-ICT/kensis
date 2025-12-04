@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Kenya Soil Survey"
+title: "Soil Data of Kenya"
 format: html
 page-layout: full
 search: true
@@ -41,9 +41,7 @@ listing:
 ---
 
 ::: {#hero-heading}
-The **Kenya Soil Survey (KSS)**, a department within [KALRO](https://www.kalro.org), provides authoritative soil information to support sustainable land management, agricultural planning, environmental monitoring, and national development.  
-
-Our mission is to generate, curate, and share high-quality soil data and knowledge for researchers, policymakers, farmers, and the public.
+This soil information system is one of the offerings of the Kenya Agricultural and Livestock Research Organization (KALRO). It provides access to authoritative, actionable and high-quality nation-wide soil data and information to support evidence-based decisions on sustainable land management and land use planning in Kenya. The soil data are systematically generated, collated, curated, standardized, catalogued and maintained by the Kenya Soil Survey (KSS) section within KALRO, which is recognized by the government of Kenya as providing the national reference centre for soils. We hope this platform will be a valuable resource for every stakeholder interested in Kenya’s soils.
 :::
 
 &nbsp;
