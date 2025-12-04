@@ -109,8 +109,10 @@ map.on('pointermove', function(evt){
 
   if(value===undefined||value===null||Number.isNaN(value)) return;
 
-  popup.style.display='block';
-  popup.style.left = evt.pixel[0]+10+'px';
-  popup.style.top = evt.pixel[1]+10+'px';
+  // Position relative to map container
+  const pixel = map.getPixelFromCoordinate(coord);
+  popup.style.display = 'block';
+  popup.style.left = pixel[0] + 10 + 'px';
+  popup.style.top = pixel[1] + 10 + 'px';
   popup.innerHTML = `${title}: ${value.toFixed(2)}`;
 });
