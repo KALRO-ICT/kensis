@@ -3,6 +3,7 @@ project:
   resources:
     - img/soil-dataset.png
     - img/soil-report.png
+    - maps/*
   render:
     - "*.md"
     - "*.qmd"
