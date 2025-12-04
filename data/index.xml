@@ -13,6 +13,25 @@
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Wed, 01 Jan 2025 00:00:00 GMT</lastBuildDate>
 <item>
+  <title>Agro climatic zones in Kenya</title>
+  <dc:creator>Dr. Kennedy Were</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/Agro-climatic-zones.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>Agro-climatic-zones</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/Agro-climatic-zones.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://KALRO-ICT.github.io/kensis/data/Agro-climatic-zones.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>Potassium contents soils in Kenya</title>
   <dc:creator>Dr. Kennedy Were</dc:creator>
   <link>https://KALRO-ICT.github.io/kensis/data/K_level_classes.html</link>
@@ -30,6 +49,25 @@
   <guid>https://KALRO-ICT.github.io/kensis/data/K_level_classes.html</guid>
   <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
   <media:content url="https://KALRO-ICT.github.io/kensis/data/K_level_classes.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Major_soil_types in Kenya</title>
+  <dc:creator>Dr. Kennedy Were</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/Major_soil_types.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>soil types</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/Major_soil_types.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://KALRO-ICT.github.io/kensis/data/Major_soil_types.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Nitrogen contents soils in Kenya</title>
