@@ -94,3 +94,5 @@ Use the navigation menu to [browse datasets](./data/index.qmd), [documentation](
 
 If you have questions or need support, feel free to contact the Kenya Soil Survey team at [soil@kalro.org](mailto:soil@kalro.org).
 
+
+property > soil property > soil chemical property

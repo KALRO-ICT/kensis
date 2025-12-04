@@ -1,0 +1,12 @@
+
+---
+title: "pH contents soils in Kenya"
+description: Data provided by Kenya Soil Survey
+author: "Dr. Kennedy Were"
+date: "2025-01-01"
+image: pH_level_classes_3.jpg
+links:
+- url: pH_level_classes_3.jpg
+categories: 
+- soil properties
+---
