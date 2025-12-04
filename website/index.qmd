@@ -23,7 +23,7 @@ listing:
     categories: false
     sort-ui: false
     filter-ui: false
-    max-items: 4
+    max-items: 3
     feed: false
     
   - id: data
@@ -36,7 +36,7 @@ listing:
     categories: false
     sort-ui: false
     filter-ui: false
-    max-items: 4
+    max-items: 3
     feed: false
 ---
 

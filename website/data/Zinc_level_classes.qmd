@@ -4,9 +4,9 @@ title: "Zinc contents soils in Kenya"
 description: Data provided by Kenya Soil Survey
 author: "Dr. Kennedy Were"
 date: "2025-01-01"
-image: Zinc_level_classes_3.jpg
+image: Zinc_level_classes.jpg
 links:
-- url: Zinc_level_classes_3.jpg
+- url: Zinc_level_classes.jpg
 categories: 
 - soil properties
 ---
