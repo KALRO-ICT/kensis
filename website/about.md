@@ -4,8 +4,6 @@ format: html
 page-layout: full
 ---
 
-# About
-
 **Kenya Soil Survey (KSS)** is the national reference centre and knowledge base of Kenya's soil resources. As a section within the Kenya Agricultural and Livestock Research Organization (KALRO), KSS plays a central role in supporting sustainable land management, land use planning and environmental stewardship across Kenya.
 
 ---
