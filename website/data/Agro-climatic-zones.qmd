@@ -1,0 +1,12 @@
+
+---
+title: "Agro climatic zones in Kenya"
+description: Data provided by Kenya Soil Survey
+author: "Dr. Kennedy Were"
+date: "2025-01-01"
+image: Agro-climatic-zones.jpg
+links:
+- url: Agro-climatic-zones.jpg
+categories: 
+- Agro-climatic-zones
+---
