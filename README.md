@@ -1,6 +1,6 @@
 # KENSIS
 
-KENSIS is a Soil Information System of the Kenia Soil Survey, which is part of KALRO
+KENSIS is a Soil Information System of the Kenya Soil Survey, which is part of KALRO
 
 This repository maintains the sourcecode, configuration and documentation of the Soil Information System.
 

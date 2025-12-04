@@ -17,7 +17,7 @@ website:
     left:
     - text: Kenya Soil Survey
 
-  title: "Kenya Soil Survey"
+  title: "Soil Data of Kenya"
   search: false
   navbar:
     pinned: true
