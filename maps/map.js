@@ -85,12 +85,6 @@ async function loadCOGLayers() {
 
 loadCOGLayers();
 
-// Mouse hover popup
-const popup = document.createElement('div');
-popup.className='ol-popup';
-popup.style.display='none';
-document.body.appendChild(popup);
-
 map.on('pointermove', function(evt){
   const coord = evt.coordinate;
   popup.style.display = 'none';
