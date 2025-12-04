@@ -11,7 +11,121 @@
 <description>Data provided by Kenya Soil Survey&lt;br&gt;
 </description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sun, 01 Jan 1989 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Potassium contents soils in Kenya</title>
+  <dc:creator>Dr. Kennedy Were</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/K_level_classes.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>soil properties</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/K_level_classes.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://KALRO-ICT.github.io/kensis/data/K_level_classes.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Nitrogen contents soils in Kenya</title>
+  <dc:creator>Dr. Kennedy Were</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/Nitrogen_level_classes.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>soil properties</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/Nitrogen_level_classes.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://KALRO-ICT.github.io/kensis/data/Nitrogen_level_classes.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Organic C contents soils in Kenya</title>
+  <dc:creator>Dr. Kennedy Were</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/OrganicC_level_classes_3.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>soil properties</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/OrganicC_level_classes_3.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://KALRO-ICT.github.io/kensis/data/OrganicC_level_classes_3.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Phospohorous contents soils in Kenya</title>
+  <dc:creator>Dr. Kennedy Were</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/P_level_classes.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>soil properties</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/P_level_classes.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://KALRO-ICT.github.io/kensis/data/P_level_classes_3.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Zinc contents soils in Kenya</title>
+  <dc:creator>Dr. Kennedy Were</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/Zinc_level_classes.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>soil properties</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/Zinc_level_classes.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://KALRO-ICT.github.io/kensis/data/Zinc_level_classes_3.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>pH contents soils in Kenya</title>
+  <dc:creator>Dr. Kennedy Were</dc:creator>
+  <link>https://KALRO-ICT.github.io/kensis/data/pH_classes_3.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+ ]]></description>
+  <category>soil properties</category>
+  <guid>https://KALRO-ICT.github.io/kensis/data/pH_classes_3.html</guid>
+  <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://KALRO-ICT.github.io/kensis/data/pH_level_classes_3.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Arid and Semi-Arid Lands. Landforms and Soils of Baringo District. Site evaluation for rangeland use. Report no. P20.</title>
   <dc:creator>Touber, L.</dc:creator>

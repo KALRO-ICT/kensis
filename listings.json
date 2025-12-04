@@ -9,6 +9,12 @@
   {
     "listing": "/data/index.html",
     "items": [
+      "/data/K_level_classes.html",
+      "/data/Nitrogen_level_classes.html",
+      "/data/OrganicC_level_classes_3.html",
+      "/data/P_level_classes.html",
+      "/data/Zinc_level_classes.html",
+      "/data/pH_classes_3.html",
       "/data/ds3.html",
       "/data/ds2.html",
       "/data/ds1.html"
@@ -19,6 +25,12 @@
     "items": [
       "/reports/survey-busia-1991.html",
       "/reports/survey-KAMPI-YA-MAWE-1975.html",
+      "/data/K_level_classes.html",
+      "/data/Nitrogen_level_classes.html",
+      "/data/OrganicC_level_classes_3.html",
+      "/data/P_level_classes.html",
+      "/data/Zinc_level_classes.html",
+      "/data/pH_classes_3.html",
       "/data/ds3.html",
       "/data/ds2.html",
       "/data/ds1.html"
