@@ -4,9 +4,11 @@ title: "Potassium contents soils in Kenya"
 description: Data provided by Kenya Soil Survey
 author: "Dr. Kennedy Were"
 date: "2025-01-01"
-image: "K_level_classes.jpg"
+image: K_level_classes.jpg
 links:
 - url: K_level_classes.jpg
 categories: 
 - soil properties
 ---
+
+![K_level_classes.jpg](K_level_classes.jpg)

@@ -8,3 +8,5 @@ links:
 - url: https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/afr_keblfs.jpg
 categories: [observations]
 ---
+
+![afr_keblfs](https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/afr_keblfs.jpg)

@@ -10,3 +10,5 @@ links:
 categories: 
 - soil properties
 ---
+
+![Nitrogen_level_classes.jpg](Nitrogen_level_classes.jpg)

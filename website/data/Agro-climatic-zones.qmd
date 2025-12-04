@@ -10,3 +10,5 @@ links:
 categories: 
 - Agro-climatic-zones
 ---
+
+![Agro-climatic-zones](Agro-climatic-zones.jpg)

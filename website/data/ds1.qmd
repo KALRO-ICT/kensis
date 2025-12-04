@@ -9,3 +9,4 @@ links:
 categories: [observations]
 ---
 
+![Exploratory Soil Map of Kenya. Appendix 1 to Report no. E1.](https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/afr_keesm.jpg)

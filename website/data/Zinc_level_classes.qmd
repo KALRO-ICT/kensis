@@ -10,3 +10,5 @@ links:
 categories: 
 - soil properties
 ---
+
+![Zinc_level_classes.jpg](Zinc_level_classes.jpg)

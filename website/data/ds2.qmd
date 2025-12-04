@@ -9,4 +9,4 @@ links:
 categories: [observations]
 ---
 
-
+![afr_kebc]](https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/ico/afr_kebc.jpg)
