@@ -14,6 +14,48 @@
     "text": "RECONNAISSANCE SOIL SURVEY OF PART. OF THE MAKUENI AREA AND DETAILED SOIL SURVEY OF THE KAMPI YA MAWE\n\n\n\nsoil survey\n\n\n\nresults of a soil survey carried out in Kenya as part of a training on the job, in accordance with the requirements of the MSc-course in Soil Science and Water Management…\n\n\n\nF.N. Muchenà\n\n\nJan 15, 1975\n\n\n\n\n\n\n\n\n\n\n\nRECONNAISSANCE SOIL SURVEY OF THE BUSIA AREA\n\n\n\nobservations\n\n\n\nA soil sample dataset\n\n\n\nJ.R. Rachilo and D.O. Michieka\n\n\nJan 15, 1991\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "data/pH_classes_3.html",
+    "href": "data/pH_classes_3.html",
+    "title": "pH contents soils in Kenya",
+    "section": "",
+    "text": "pH_classes_3.jpg"
+  },
+  {
+    "objectID": "data/ds3.html",
+    "href": "data/ds3.html",
+    "title": "Arid and Semi-Arid Lands. Landforms and Soils of Baringo District. Site evaluation for rangeland use. Report no. P20.",
+    "section": "",
+    "text": "afr_keblfs"
+  },
+  {
+    "objectID": "data/ds1.html",
+    "href": "data/ds1.html",
+    "title": "Exploratory Soil Map of Kenya. Appendix 1 to Report no. E1.",
+    "section": "",
+    "text": "Exploratory Soil Map of Kenya. Appendix 1 to Report no. E1."
+  },
+  {
+    "objectID": "data/P_level_classes.html",
+    "href": "data/P_level_classes.html",
+    "title": "Phospohorous contents soils in Kenya",
+    "section": "",
+    "text": "P_level_classes.jpg"
+  },
+  {
+    "objectID": "data/Nitrogen_level_classes.html",
+    "href": "data/Nitrogen_level_classes.html",
+    "title": "Nitrogen contents soils in Kenya",
+    "section": "",
+    "text": "Nitrogen_level_classes.jpg"
+  },
+  {
+    "objectID": "data/K_level_classes.html",
+    "href": "data/K_level_classes.html",
+    "title": "Potassium contents soils in Kenya",
+    "section": "",
+    "text": "K_level_classes.jpg"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications Kenya Soil Survey",
@@ -124,6 +166,34 @@
     "title": "Documentation",
     "section": "5. Additional Resources",
     "text": "5. Additional Resources\n\nField Sampling Manual (PDF)\n\nLaboratory SOPs\n\nDSM Workflow Guide\n\nMetadata Templates\n\nExample QGIS/ArcGIS project files\n\nCovariate documentation"
+  },
+  {
+    "objectID": "data/Agro-climatic-zones.html",
+    "href": "data/Agro-climatic-zones.html",
+    "title": "Agro climatic zones in Kenya",
+    "section": "",
+    "text": "Agro-climatic-zones"
+  },
+  {
+    "objectID": "data/OrganicC_level_classes_3.html",
+    "href": "data/OrganicC_level_classes_3.html",
+    "title": "Organic C contents soils in Kenya",
+    "section": "",
+    "text": "OrganicC_level_classes_3.jpg"
+  },
+  {
+    "objectID": "data/Zinc_level_classes.html",
+    "href": "data/Zinc_level_classes.html",
+    "title": "Zinc contents soils in Kenya",
+    "section": "",
+    "text": "Zinc_level_classes.jpg"
+  },
+  {
+    "objectID": "data/ds2.html",
+    "href": "data/ds2.html",
+    "title": "Biotic Communities of Kenya.",
+    "section": "",
+    "text": "![afr_kebc]](https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/ico/afr_kebc.jpg)"
   },
   {
     "objectID": "data/index.html",
