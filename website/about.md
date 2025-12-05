@@ -6,22 +6,20 @@ page-layout: full
 
 This soil information system is a foundational information infrastructure offered by the Kenya Agricultural and Livestock Research Organization (KALRO). It brings together soil data from across projects and provides access to nationally-consistent, standardized soil data and information to support evidence-based decisions on sustainable land management in Kenya. The soil data are systematically generated, collated, curated, standardized, catalogued and maintained by the Kenya Soil Survey (KSS) section within KALRO, which is recognized by the government of Kenya as providing the national reference centre for soils. This is the new place to find reliable, readily useable and actionable soil data and information.
 
----
-
 Users of the soil information system can:
+
 - Discover, filter, access and view relevant soil data
 - Download soil data in a standard format  
 
----
-
 The soil data and information can support a range of applications by different users, including:
+
 - Policy makers requiring soil data for informed evidence-based decision-making
 - Farmers and farm advisors wanting to use soil data to compare the condition of their soil with a similar soil type
 - Researchers requiring standardized data on soil properties for research priorities, including food security and climate change adaptation.
 
 ---
 
-## About Kenya Soil Survey
+## About the Kenya Soil Survey
 **Kenya Soil Survey (KSS)** is the national reference centre and knowledge base of Kenya's soil resources. As a section within the Kenya Agricultural and Livestock Research Organization (KALRO), KSS plays a central role in supporting sustainable land management, land use planning and environmental stewardship across Kenya.
 
 ---
