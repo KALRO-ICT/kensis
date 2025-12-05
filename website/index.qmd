@@ -75,6 +75,7 @@ Learn about the standards, methods and protocols for soil data collection, analy
 ## Our Commitment
 
 We are committed to:
+
 - Providing **open, standardized, high-quality soil information**  
 - Supporting **evidence-based decision-making**  
 - Advancing **soil science research** in Kenya  
