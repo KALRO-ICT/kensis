@@ -66,6 +66,12 @@ Looking for a published soil map or report? Access them here [Read more ...](pub
 ::: {#reports}
 :::
 
+## [Documentation](documents/index.qmd)
+
+Learn about the standards, methods and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service through detailed documentation. [Read more ...](docs.md)
+
+::: {#documents}
+:::
 
 ## Interactive soil maps
 
@@ -76,7 +82,7 @@ Looking for a published soil map or report? Access them here [Read more ...](pub
 
 We are committed to:
 
-- Providing **open, standardized, high-quality soil information**  
+- Providing **open, standardized, high-quality** soil information  
 - Supporting **evidence-based decision-making**  
 - Advancing **soil science research** in Kenya  
 - Enabling sustainable management of natural resources  
