@@ -15,7 +15,9 @@ The soil data and information can support a range of applications by different u
 - Farmers and farm advisors wanting to use soil data to compare the condition of their soil with a similar soil type
 - Researchers requiring standardized data on soil properties for research priorities, including food security and climate change adaptation.
 
-**About Kenya Soil Survey**
+---
+
+## About Kenya Soil Survey
 **Kenya Soil Survey (KSS)** is the national reference centre and knowledge base of Kenya's soil resources. As a section within the Kenya Agricultural and Livestock Research Organization (KALRO), KSS plays a central role in supporting sustainable land management, land use planning and environmental stewardship across Kenya.
 
 ---
