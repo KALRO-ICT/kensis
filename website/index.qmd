@@ -87,11 +87,13 @@ We are committed to:
 - Advancing **soil science research** in Kenya  
 - Enabling sustainable management of natural resources  
 
-## Start Exploring
-Use the navigation menu to [browse Data](./data/index.qmd), [Publications](./publications.md), [Documentation](./docs.md), [About the SIS](./about.md).
+## Contact Us
 
-If you have questions or need support, feel free to contact the Kenya Soil Survey team at [soil@kalro.org](mailto:soil@kalro.org).
+If you have questions or need support, feel free to contact our team at: 
 
+Soil Data of Kenya
+(hosted at Kenya Soil Survey - KALRO, Nairobi)
+[soil@kalro.org](mailto:kennedy.were@kalro.org).
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.7.0/ol.css">
 <link rel="stylesheet" href="https://unpkg.com/ol-layerswitcher@4.1.0/dist/ol-layerswitcher.css" />
