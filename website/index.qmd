@@ -41,7 +41,7 @@ listing:
 ---
 
 ::: {#hero-heading}
-This soil information system is one of the offerings of the [Kenya Agricultural and Livestock Research Organization (KALRO)](https://www.kalro.org). It provides access to authoritative, actionable and high-quality nation-wide soil data and information to support evidence-based decisions on sustainable land management and land use planning in Kenya. The soil data are systematically generated, collated, curated, standardized, catalogued and maintained by the Kenya Soil Survey (KSS) section within KALRO, which is recognized by the government of Kenya as providing the national reference centre for soils. We hope this platform will be a valuable resource for every stakeholder interested in Kenya’s soils.
+This soil information system is a foundational information infrastructure offered by the Kenya Agricultural and Livestock Research Organization (KALRO). It brings together soil data from across projects and provides access to nationally-consistent, standardized and readily useable soil data and information to support evidence-based decisions on sustainable land management in Kenya. The soil data are systematically generated, collated, curated, standardized, catalogued and maintained by the Kenya Soil Survey (KSS) section within KALRO, which is recognized by the government of Kenya as providing the national reference centre for soils. We hope this platform will be a valuable resource for every stakeholder interested in Kenya’s soils.
 :::
 
 &nbsp;
@@ -59,9 +59,9 @@ Access datasets and maps from several soil survey missions across Kenya. The map
 
 
 
-## [Reports](reports/index.qmd)
+## [Publications](reports/index.qmd)
 
-Learn about our methodologies and protocols through detailed documentation. [Read more about our soil data approach](docs.md)
+Learn about the standards, methods and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service through detailed documentation. [Read more ...](docs.md)
 
 ::: {#reports}
 :::
