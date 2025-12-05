@@ -1,5 +1,6 @@
 ---
-title: "Soil Data of Kenya"
+title: "Soil Data 
+of Kenya"
 format: html
 page-layout: full
 search: true
@@ -67,7 +68,7 @@ Learn about the standards, methods and protocols for soil data collection, analy
 :::
 
 
-## [Interactive soil maps]
+## Interactive soil maps
 
 <div id="map" style="width:100%;height:350px" class="rounded shadow"><div id="popup" class="ol-popup" style="display:none;"></div></div>
 
