@@ -46,9 +46,13 @@ This soil information system is one of the offerings of the [Kenya Agricultural 
 
 &nbsp;
 
+---
+
+## Explore Resources 
+
 ## [Data](data/index.qmd)
 
-Access datasets collected from soil survey missions across Kenya. Predicted distribution of soil properties (soil maps) and Soil health indicators, such as erosion risk, fertility, crop suitability. [Read more about data](data.md)
+Access datasets and maps from several soil survey missions across Kenya. The maps depict the predicted distribution of soil properties and soil health indicators, such as soil erosion risk, soil nutrient depletion, soil organic carbon decline, soil acidity, etc. [Read more about data](data.md)
 
 ::: {#data}
 :::
@@ -70,8 +74,8 @@ Learn about our methodologies and protocols through detailed documentation. [Rea
 
 ## Our Commitment
 
-The Kenya Soil Survey is committed to:
-- Providing **open, high-quality soil information**  
+We are committed to:
+- Providing **open, standardized, high-quality soil information**  
 - Supporting **evidence-based decision-making**  
 - Advancing **soil science research** in Kenya  
 - Enabling sustainable management of natural resources  
@@ -80,7 +84,7 @@ We hope this platform will be a valuable resource for everyone interested in Ken
 
 
 ## Start Exploring
-Use the navigation menu to [browse datasets](./data/index.qmd), [documentation](./docs.md), [about KSS](./about.md).
+Use the navigation menu to [browse Data](./data/index.qmd), [Documentation](./docs.md), [About the SIS](./about.md).
 
 If you have questions or need support, feel free to contact the Kenya Soil Survey team at [soil@kalro.org](mailto:soil@kalro.org).
 
