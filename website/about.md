@@ -26,9 +26,7 @@ The soil data and information can support a range of applications by different u
 
 ## Vision
 
-> **To be a centre of excellence in provision of soil data and information towards transformed livelihoods.**
-
----
+To be a centre of excellence in provision of soil data and information towards transformed livelihoods
 
 ## Strategic Objectives
 
@@ -39,8 +37,6 @@ The soil data and information can support a range of applications by different u
 - Support land restoration, climate change adaptation, and environmental conservation programs through soil monitoring and reporting.
 - Provide training in GIS, remote sensing, soil survey, digital soil mapping and land evaluation
 - Strengthen partnerships with counties, universities, regional and international organizations
-
----
 
 ## History
 
