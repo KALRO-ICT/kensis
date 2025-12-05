@@ -10,7 +10,7 @@ project:
 
 website:
   favicon: /assets/images/favicon.svg
-  repo-url: "https://github.com/kenya-ict/kensis"
+  repo-url: "https://github.com/kalro-ict/kensis"
   repo-actions:
     - edit
     - issue
@@ -23,7 +23,7 @@ website:
   navbar:
     pinned: true
     logo: ./img/kenya-soil-survey.png
-    logo-alt: "Logo of Land Soil Crop Hub"
+    logo-alt: "Logo of Kenya Soil Survey"
     right:
       - text: Home
         file: "./index.qmd"
