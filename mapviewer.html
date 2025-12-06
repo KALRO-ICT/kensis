@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Soil Data of Kenya</title>
+<title>Map Viewer – Soil Data of Kenya</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,14 +25,13 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <link href=".//assets/images/favicon.svg" rel="icon" type="image/svg+xml">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -57,93 +56,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-reports .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-reports'] = new List('listing-reports', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-data .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-data'] = new List('listing-data', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -330,7 +243,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -371,228 +284,31 @@ window.Quarto = {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content page-columns page-full column-page" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 
-
-
-
-<div class="quarto-about-solana column-page">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Soil Data of Kenya</h1>
+<h1 class="title">Map Viewer</h1>
 </div>
+
+
+
 <div class="quarto-title-meta column-page">
+
+    
+  
+    
   </div>
-</header> 
-      <div class="about-contents"><div id="hero-heading">
-<p>This soil information system is a foundational information infrastructure offered by the Kenya Agricultural and Livestock Research Organization (KALRO). It brings together soil data from across projects and provides access to nationally-consistent, standardized and readily useable soil data and information to support evidence-based decisions on sustainable land management in Kenya. The soil data are systematically generated, collated, curated, standardized, catalogued and maintained by the Kenya Soil Survey (KSS) section within KALRO, which is recognized by the government of Kenya as providing the national reference centre for soils. We hope this platform will be a valuable resource for every stakeholder interested in Kenya’s soils.</p>
-</div></div>
-    </div>
-    <img src="./img/kenya-soil-scientist.jpg" alt="Impact of soil erosion on dryland ecosystems" class="about-image
-  rounded " style="width: 32em;">
-  </div>
-</div>
-
-<p>&nbsp;</p>
-<hr>
-<section id="explore-resources" class="level2">
-<h2 data-anchor-id="explore-resources">Explore Resources</h2>
-</section>
-<section id="data" class="level2">
-<h2 data-anchor-id="data"><a href="./data/index.html">Data</a></h2>
-<p>Access soil data and maps from several soil survey missions across Kenya. The maps depict the predicted distribution of soil properties and soil health indicators, such as soil erosion risk, soil nutrient depletion, soil organic carbon decline, soil acidity, etc. <a href="./data.html">Read more about data</a></p>
-<div id="listing-data" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="QWdyby1jbGltYXRpYy16b25lcw==" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1764982249013" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./data/Agro-climatic-zones.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./data/Agro-climatic-zones.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Agro climatic zones in Kenya
-</h5>
-<div class="card-text listing-description delink">
-<p>Data provided by Kenya Soil Survey</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Dr.&nbsp;Kennedy Were
-</div>
-<div class="listing-date">
-Jan 1, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="c29pbCUyMHByb3BlcnRpZXM=" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1764982249018" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./data/K_level_classes.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./data/K_level_classes.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Potassium contents soils in Kenya
-</h5>
-<div class="card-text listing-description delink">
-<p>Data provided by Kenya Soil Survey</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Dr.&nbsp;Kennedy Were
-</div>
-<div class="listing-date">
-Jan 1, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="c29pbCUyMHR5cGVz" data-listing-date-sort="1735689600000" data-listing-file-modified-sort="1764982249046" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./data/Major_soil_types.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./data/Major_soil_types.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Major_soil_types in Kenya
-</h5>
-<div class="card-text listing-description delink">
-<p>Data provided by Kenya Soil Survey</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Dr.&nbsp;Kennedy Were
-</div>
-<div class="listing-date">
-Jan 1, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="publications" class="level2">
-<h2 data-anchor-id="publications"><a href="./reports/index.html">Publications</a></h2>
-<p>Looking for published soil survey reports? Access them here <a href="publication.md">Read more …</a></p>
-<div id="listing-reports" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="b2JzZXJ2YXRpb25z" data-listing-date-sort="663897600000" data-listing-file-modified-sort="1764982249134" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
-<a href="./reports/survey-busia-1991.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="./img/soil-report.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-RECONNAISSANCE SOIL SURVEY OF THE BUSIA AREA
-</h5>
-<div class="card-text listing-description delink">
-<p>A soil sample dataset</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-J.R. Rachilo and D.O. Michieka
-</div>
-<div class="listing-date">
-Jan 15, 1991
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="c29pbCUyMHN1cnZleQ==" data-listing-date-sort="158976000000" data-listing-file-modified-sort="1764982249134" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
-<a href="./reports/survey-KAMPI-YA-MAWE-1975.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="./img/soil-report.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-RECONNAISSANCE SOIL SURVEY OF PART. OF THE MAKUENI AREA AND DETAILED SOIL SURVEY OF THE KAMPI YA MAWE
-</h5>
-<div class="card-text listing-description delink">
-<p>results of a soil survey carried out in Kenya as part of a training on the job, in accordance with the requirements of the MSc-course in Soil Science and Water Management…</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-F.N. Muchenà
-</div>
-<div class="listing-date">
-Jan 15, 1975
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="documents" class="level2">
-<h2 data-anchor-id="documents"><a href="documents/index.qmd">Documents</a></h2>
-<p>Learn about the standards, methods and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service through detailed documentation. <a href="./docs.html">Read more …</a></p>
-<div id="documents">
-
-</div>
-</section>
-<section id="interactive-soil-maps" class="level2">
-<h2 data-anchor-id="interactive-soil-maps">Interactive soil maps</h2>
-<div id="map" class="rounded shadow" style="width:100%;height:350px">
-<div id="popup" class="ol-popup" style="display:none;">
-
-</div>
-</div>
-</section>
-<section id="our-commitment" class="level2">
-<h2 data-anchor-id="our-commitment">Our Commitment</h2>
-<p>We are committed to:</p>
-<ul>
-<li>Providing <strong>open, standardized, high-quality</strong> soil information<br>
-</li>
-<li>Supporting <strong>evidence-based decision-making</strong><br>
-</li>
-<li>Advancing <strong>soil science research</strong> in Kenya<br>
-</li>
-<li>Enabling sustainable management of natural resources</li>
-</ul>
-</section>
-<section id="contact-us" class="level2">
-<h2 data-anchor-id="contact-us">Contact Us</h2>
-<p>If you have questions or need support, feel free to contact our team at:</p>
-<p>Soil Data of Kenya</p>
-<p>Hosted at Kenya Soil Survey - KALRO, Nairobi</p>
-<p>E-mail:<a href="mailto:kennedy.were@kalro.org">kennedy.were@kalro.org</a>.</p>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.7.0/ol.css"> <link rel="stylesheet" href="https://unpkg.com/ol-layerswitcher@4.1.0/dist/ol-layerswitcher.css">
-<script src="https://cdn.jsdelivr.net/npm/ol@7.4.0/dist/ol.js"></script>
-<script src="https://unpkg.com/geotiff@2.1.3/dist-browser/geotiff.js"></script>
-<script src="https://unpkg.com/ol-layerswitcher@4.1.0/dist/ol-layerswitcher.js"></script>
-<script src="maps/map.js"></script>
-<style>
-.ol-popup {
-  position: absolute;
-  z-index: 999;
-  background: white;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border: 1px solid #ccc;
-  font-family: Arial,sans-serif;
-  font-size: 12px;
-  pointer-events: none;
-  white-space: nowrap;
-}
-</style>
+  
 
 
+</header>
 
 
-</section>
+<p>On this page you will interact with different soil maps on the web.</p>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -610,6 +326,13 @@ Jan 15, 1975
       window.document.body.appendChild(a);
     }
     setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -1013,7 +736,7 @@ Jan 15, 1975
     </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/kalro-ict/kensis/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kalro-ict/kensis/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/kalro-ict/kensis/edit/main/mapviewer.md" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/kalro-ict/kensis/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
