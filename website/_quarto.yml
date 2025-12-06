@@ -32,7 +32,7 @@ website:
       - text: Map Viewer
         file: "./mapviewer.md"
       - text: Dashboard
-        file: "./index.qmd"
+        file: "./dashboard.md"
       - text: Publications
         file: "reports/index.qmd"
       - text: Documentation
