@@ -59,16 +59,9 @@ Access soil data and maps from several soil survey missions across Kenya. The ma
 
 ## [Publications](reports/index.qmd)
 
-Looking for published soil survey reports? Access them here [Read more ...](publication.md)
+Looking for published soil survey reports, guides, standard operating procedures and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service? Access them here [Read more ...](publication.md)
 
 ::: {#reports}
-:::
-
-## [Documents](documents/index.qmd)
-
-Learn about the standards, methods and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service through detailed documentation. [Read more ...](docs.md)
-
-::: {#documents}
 :::
 
 ## Interactive soil maps
