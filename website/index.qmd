@@ -3,7 +3,7 @@ title: "Soil Data of Kenya"
 format: html
 page-layout: full
 search: true
-image: ./img/kenya-soil-scientist.jpg
+image: ./img/kenya-soil-surveyor.jpg
 image-alt: "Impact of soil erosion on dryland ecosystems"
 repo-actions: [edit, issue]
 
