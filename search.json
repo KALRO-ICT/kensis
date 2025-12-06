@@ -105,6 +105,13 @@
     "text": "5. Additional Resources\n\nField Sampling Manual (PDF)\n\nLaboratory SOPs\n\nDSM Workflow Guide\n\nMetadata Templates\n\nExample QGIS/ArcGIS project files\n\nCovariate documentation"
   },
   {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Soil Data of Kenya",
+    "section": "",
+    "text": "Here you can download the point dataset and explore various statistical summaries of this dataset."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About the Soil Information System",
