@@ -90,9 +90,9 @@ If you have questions or need support, feel free to contact our team at:
 
 Soil Data of Kenya
 
-(Hosted at Kenya Soil Survey - KALRO, Nairobi)
+Hosted at Kenya Soil Survey - KALRO, Nairobi
 
-[soil@kalro.org](mailto:kennedy.were@kalro.org).
+E-mail:[kennedy.were@kalro.org](mailto:kennedy.were@kalro.org).
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.7.0/ol.css">
 <link rel="stylesheet" href="https://unpkg.com/ol-layerswitcher@4.1.0/dist/ol-layerswitcher.css" />
