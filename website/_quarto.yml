@@ -35,8 +35,6 @@ website:
         file: "./dashboard.md"
       - text: Publications
         file: "reports/index.qmd"
-      - text: Documentation
-        file: "./docs.md"  
       - text: About
         file: "./about.md"
 
