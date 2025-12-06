@@ -64,7 +64,7 @@ Looking for published soil survey reports, guides, standard operating procedures
 ::: {#reports}
 :::
 
-## [Linked Web Resources] 
+## [Linked Web Resources](./web-resources.md) 
 
 Paul, here we can put links to ISRIC Soil Grids & website, S4A SIS, ICRAF landscape portal, etc. 
 
