@@ -57,16 +57,14 @@ Access soil data and maps from several soil survey missions across Kenya. The ma
 ::: {#data}
 :::
 
-
-
 ## [Publications](reports/index.qmd)
 
-Looking for a published soil map or report? Access them here [Read more ...](publication.md)
+Looking for published soil survey reports? Access them here [Read more ...](publication.md)
 
 ::: {#reports}
 :::
 
-## [Documentation](documents/index.qmd)
+## [Documents](documents/index.qmd)
 
 Learn about the standards, methods and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service through detailed documentation. [Read more ...](docs.md)
 
@@ -76,7 +74,6 @@ Learn about the standards, methods and protocols for soil data collection, analy
 ## Interactive soil maps
 
 <div id="map" style="width:100%;height:350px" class="rounded shadow"><div id="popup" class="ol-popup" style="display:none;"></div></div>
-
 
 ## Our Commitment
 
@@ -92,7 +89,9 @@ We are committed to:
 If you have questions or need support, feel free to contact our team at: 
 
 Soil Data of Kenya
-(hosted at Kenya Soil Survey - KALRO, Nairobi)
+
+(Hosted at Kenya Soil Survey - KALRO, Nairobi)
+
 [soil@kalro.org](mailto:kennedy.were@kalro.org).
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.7.0/ol.css">
