@@ -30,7 +30,7 @@ website:
       - text: Data
         file: "data/index.qmd"
       - text: Map Viewer
-        file: "./index.qmd"
+        file: "./mapviewer.md"
       - text: Dashboard
         file: "./index.qmd"
       - text: Publications
