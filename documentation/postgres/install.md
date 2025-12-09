@@ -32,6 +32,12 @@ psql --host localhost --username postgres --password --dbname template1
 
 Read more at <https://www.postgresql.org/docs/current/admin.html>
 
+## graphile-migrate
+
+The iso28258 database template provided by ISRIC is best maintained with a tool called [graphile-migrate](https://github.com/graphile/migrate). 
+The tool can best be installed on a local machine and connect to the database to populate the database.
+Read more about the setup at <https://github.com/ISRICWorldSoil/iso-28258>
+
 ## pgadmin
 
 [pgadmin](https://www.pgadmin.org/) is a webbased tool to interact with the database, you can install it locally, on the server or access it via docker:
