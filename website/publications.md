@@ -1,6 +1,6 @@
 ---
-title: Publications Kenya Soil Survey
+title: Publications 
 
 ---
 
-On this page you find a list of relevant soil survey reports, guides and standard operating procedures for soil data collection, analysis, curation, management, modelling, mapping, application and service.
+Publications consists of soil survey reports, as well as guidelines and standard operating procedures for soil data collection, analysis, curation, management, modelling, mapping, application and service.
