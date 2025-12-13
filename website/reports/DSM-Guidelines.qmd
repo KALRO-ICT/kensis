@@ -1,6 +1,6 @@
 ---
 title: "GUIDELINES AND TECHNICAL SPECIFICATIONS FOR DIGITAL SOIL FERTILITY MAPPING IN KENYA"
-description: "A soil guideline for digital soil mapping in Kenya"
+description: "A simple guide for digital soil mapping in Kenya"
 author: "K. Were, L. Tanui, M. Nyamai, H. Rotich, D. Golicha, M. Okoti, R. Rutto, R. Waswa, D. Kamau, E. Nyambati
 P. Njeru, V. Kirigua"
 date: "2024-09-15"
