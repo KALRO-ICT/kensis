@@ -6,7 +6,7 @@ author: "J.R. Rachilo and D.O. Michieka"
 date: "1991-01-15"
 links:
 - url: "https://edepot.wur.nl/493413"
-categories: [observations]
+categories: [Observations]
 ---
 
 The present soil survey is the eighth in series of "Reconnaissance Soil Surveys" with
