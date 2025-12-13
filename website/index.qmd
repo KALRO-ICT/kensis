@@ -41,7 +41,7 @@ listing:
 ---
 
 ::: {#hero-heading}
-This is a foundational digital archive and information infrastructure offered by the Kenya Agricultural and Livestock Research Organization (KALRO). It brings together soil data and information from across projects and sources, and provides access to nationally-consistent, standardized and readily useable soil data and information to support evidence-based decisions on sustainable land management in Kenya. The soil data are systematically generated, collated, curated, standardized, catalogued and maintained by the Kenya Soil Survey (KSS) section within KALRO, which is recognized by the government of Kenya as providing the national reference centre for soils. Some of the datasets are freely downloadable, while others may be accessed upon submission of requests. We hope this platform will be a valuable resource for every stakeholder interested in Kenya’s soils.
+This is a foundational digital archive and information infrastructure offered by the Kenya Agricultural and Livestock Research Organization (KALRO). It brings together soil data and information from across projects and sources, and provides access to nationally-consistent, standardized and readily useable soil data and information to support evidence-based decisions on sustainable land management in Kenya. The soil data are systematically generated, collated, curated, standardized, catalogued and maintained by the Kenya Soil Survey (KSS) section within KALRO, which is recognized by the government of Kenya as providing the national reference centre for soils. Some of the datasets are freely downloadable, while others may be accessed upon submission of requests. 
 :::
 
 &nbsp;
