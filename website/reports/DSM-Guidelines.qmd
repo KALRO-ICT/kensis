@@ -1,0 +1,12 @@
+---
+title: "GUIDELINES AND TECHNICAL SPECIFICATIONS FOR DIGITAL SOIL FERTILITY MAPPING"
+subtitle: (quarter degree sheet No. 101)
+description: "A soil sample dataset"
+author: "J.R. Rachilo and D.O. Michieka"
+date: "1991-01-15"
+links:
+- url: "https://edepot.wur.nl/493413"
+categories: ["Guidelines"]
+---
+
+The aim of this document is to provide guidelines for generating national soil fertility maps at 250 m resolution, in tandem with the Global Soil Nutrient and Budgets Maps (GSNmap) initiative of the FAO’s Global Soil Partnership (GSP), which Kenya is part of, based on Digital Soil Mapping (DSM) approach.
