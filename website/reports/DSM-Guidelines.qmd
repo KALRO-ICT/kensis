@@ -1,5 +1,5 @@
 ---
-title: "GUIDELINES AND TECHNICAL SPECIFICATIONS FOR DIGITAL SOIL FERTILITY MAPPING"
+title: "GUIDELINES AND TECHNICAL SPECIFICATIONS FOR DIGITAL SOIL FERTILITY MAPPING IN KENYA"
 subtitle: (quarter degree sheet No. 101)
 description: "A soil sample dataset"
 author: "J.R. Rachilo and D.O. Michieka"
