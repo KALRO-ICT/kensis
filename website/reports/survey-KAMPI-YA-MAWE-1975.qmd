@@ -8,7 +8,7 @@ author: "F.N. Muchenà"
 date: "1975-01-15"
 links:
 - url: "https://edepot.wur.nl/304513"
-categories: ["soil survey"]
+categories: ["Soil survey"]
 ---
 
 This report describes the results of a soil survey carried out in Kenya
