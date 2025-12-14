@@ -6,7 +6,7 @@ date: "1983-01-01"
 image: "https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/ico/afr_kebc.jpg"
 links:
 - url: https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/PDF/afr_kebc.pdf
-categories: [observations]
+categories: [Observations]
 ---
 
 ![afr_kebc]](https://esdac.jrc.ec.europa.eu/images/Eudasm/Africa/images/maps/download/ico/afr_kebc.jpg)
