@@ -1,1 +1,10 @@
+---
+title: "EXPLORATORY SOIL SURVEY REPORT (KENYA)"
+subtitle: "Exploratory soil map and agro-climatic zone map of Kenya, 1980 (Scale 1: 1,000,000)"
+description: "Methodology followed by the Kenya Soil Survey staff during the execution of the various types of soil surveys"
+author: "Sombroek W.G., Braun H.M.H., van der Pouw B.J.A."
+date: "1982-01-15"
+categories: ["Soil survey"]
+---
 
+This is the first of Kenya Soil Survey exploratory soil survey report. It serves as an explanatory note to the soil and agro-climatic zone maps of Kenya at scale 1: 1,000,000. The explanatory soil map and the accompanying agro-climatic zone map form the logical basis for the selection by planners, at national level, of areas to be developed for one or another specific type of land use. Once such areas and development options have been identified, more detailed soil surveys can be conducted. At its scale, the exploratory soil map can be used as a first basis for the programming of soil conservation and management in general. 
