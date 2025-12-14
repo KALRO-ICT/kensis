@@ -1,8 +1,8 @@
 
 ---
-title: "Nitrogen contents soils in Kenya"
+title: "Critical Nitrogen levels in Kenyan soils"
 description: Data provided by Kenya Soil Survey
-author: "Dr. Kennedy Were"
+author: "Kenya Soil Survey"
 date: "2025-01-01"
 image: Nitrogen_level_classes.jpg
 links:
@@ -10,5 +10,7 @@ links:
 categories: 
 - soil properties
 ---
+
+Nitrogen is a major component of chlorophyll. It is normally low where soil carbon levels are low. Therefore application of nitrogenous fertilizers is recommended in areas where soil carbon are moderate to low. This analysis indicate that 87% of Kenyan soils are deficient in N.
 
 ![Nitrogen_level_classes.jpg](Nitrogen_level_classes.jpg)
