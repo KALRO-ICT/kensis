@@ -1,8 +1,8 @@
 
 ---
-title: "Agro climatic zones in Kenya"
-description: Data provided by Kenya Soil Survey
-author: "Dr. Kennedy Were"
+title: "Agro-climatic zones of Kenya"
+description: A tool for assessing which areas are suitable for various land use alternatives, especially crops based on moisture availability and temperature.
+author: "Kenya Soil Survey"
 date: "2025-01-01"
 image: Agro-climatic-zones.jpg
 links:
