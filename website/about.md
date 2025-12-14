@@ -32,7 +32,7 @@ To be a centre of excellence in provision of soil data and information towards t
 
 - Conduct systematic surveys, mapping, and characterization of soil and land resources at national, regional, and local scales.
 - Develop and maintain national soil databases and produce thematic maps for different clientele (researchers, policymakers, planners, and the public).
-- Conduct land evaluation assessments and offer advice on land suitability for crop production
+- Conduct land evaluation and offer advice on land suitability for crop production
 - Standardize procedures for collecting, analyzing and interpreting data on soil types
 - Support land restoration, climate change adaptation, and environmental conservation programs through soil monitoring and reporting.
 - Provide training in GIS, remote sensing, soil survey, digital soil mapping and land evaluation
