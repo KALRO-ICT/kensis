@@ -1,6 +1,6 @@
 
 ---
-title: "Critical Nitrogen levels in Kenyan soils"
+title: "Critical nitrogen levels in Kenyan soils"
 description: Data provided by Kenya Soil Survey
 author: "Kenya Soil Survey"
 date: "2025-01-01"
