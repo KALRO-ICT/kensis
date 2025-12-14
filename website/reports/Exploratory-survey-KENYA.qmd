@@ -1,7 +1,7 @@
 ---
 title: "EXPLORATORY SOIL SURVEY REPORT (KENYA)"
-subtitle: "Exploratory soil map and agro-climatic zone map of Kenya, 1980 (Scale 1: 1,000,000)"
-description: "Methodology followed by the Kenya Soil Survey staff during the execution of the various types of soil surveys"
+subtitle: "Exploratory soil map and agro-climatic zone map of Kenya"
+description: "The first of the Kenya Soil Survey exploratory survey report produced in 1980 at scale 1: 1,000,000."
 author: "Sombroek W.G., Braun H.M.H., van der Pouw B.J.A."
 date: "1982-01-15"
 categories: ["Soil survey"]
