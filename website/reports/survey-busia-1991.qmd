@@ -1,7 +1,7 @@
 ---
 title: "RECONNAISSANCE SOIL SURVEY OF THE BUSIA AREA"
 subtitle: (quarter degree sheet No. 101)
-description: "A soil sample dataset"
+description: "Results of a soil survey carried out in Busia area for multi-purpose land use planning"
 author: "J.R. Rachilo and D.O. Michieka"
 date: "1991-01-15"
 links:
@@ -10,7 +10,7 @@ categories: [Observations]
 ---
 
 The present soil survey is the eighth in series of "Reconnaissance Soil Surveys" with
-multipurpose land evaluation. The survey covers one toposheet (101) at scale 1:100,000.
+multi-purpose land evaluation. The survey covers one toposheet (101) at scale 1:100,000.
 The survey area has a substantial variation in annual rainfall with a general increase
 of rainfall northward and eastward away from the area bordering Lake Victoria. The drier
 areas bordering Lake Victoria have only one rainy season viz:- March-May, whereas in the
