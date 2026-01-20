@@ -11,6 +11,6 @@ The following components can be distinguished:
 - Content Management of the SIS website
 - A PostGres Database
 - An ETL workflow to harmonize soil observation data from various campaigns
-- A soil set of modelling efforts to predict the distribution of soil properties (Digital Soil Mapping)
+- Various modelling efforts to predict the distribution of soil properties (Digital Soil Mapping)
 - A Mapserver instance which provides convenience API's to the database and Tiff files
 - A Terria-JS instance which provides interactive viewing of the datasets
