@@ -30,11 +30,11 @@ website:
       - text: Data
         file: "data/index.qmd"
       - text: Map Viewer
-        file: "./mapviewer.md"
+        file: "./map"
       - text: Dashboard
         file: "./dashboard.md"
       - text: Publications
-        file: "reports/index.qmd"
+        file: "./reports/index.qmd"
       - text: About
         file: "./about.md"
 

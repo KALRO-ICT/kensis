@@ -1,9 +1,18 @@
+name: Build and Deploy to GitHub Pages
+
 on:
   push:
     branches:
       - main
 
-name: Render and Publish
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   build-deploy:
@@ -12,15 +21,68 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
-        
+      
+      # Render Quarto site
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Publish to GitHub Pages (and render)
-        uses: quarto-dev/quarto-actions/publish@v2
+      - name: Render Quarto website
+        working-directory: website
+        run: |
+          quarto render
+
+      # Setup TerriaMap
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          path: website
-          target: gh-pages
+          node-version: 22
+
+      - name: Checkout TerriaMap
+        uses: actions/checkout@v4
+        with:
+          repository: TerriaJS/TerriaMap
+          path: terriamap
+
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Install TerriaMap dependencies
+        working-directory: terriamap
+        run: yarn install --frozen-lockfile
+
+      - name: Build TerriaMap
+        working-directory: terriamap
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          NODE_OPTIONS: --max_old_space_size=4096
+        run: |
+          yarn gulp release --baseHref="/kensis/map/"
+
+      - name: Copy Terria configuration
+        run: |
+          mkdir -p terriamap/wwwroot/config
+          cp -r terria-config/* terriamap/wwwroot/
+
+      # Assemble final Pages site
+      - name: Assemble site
+        run: |
+          mkdir public
+
+          # Quarto site goes to root
+          cp -r website/_site/* public/
+
+          # TerriaMap goes under /map
+          mkdir -p public/map
+          cp -r terriamap/wwwroot/* public/map/
+
+          # Optional SPA fallback
+          cp public/map/index.html public/map/404.html || true
+
+          # Disable Jekyll
+          touch public/.nojekyll
+
+      # Upload artifact
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
       

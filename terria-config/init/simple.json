@@ -1,0 +1,80 @@
+{
+  "homeCamera": {
+    "west": 31.089577414649874,
+    "south": -4.1863437068756895,
+    "east": 43.547505563107,
+    "north": 5.015253727850946
+  },
+  "catalog": [
+    {
+      "id": "Catalogue-kenya",
+      "type": "csw-group",
+      "name": "LSC Catalogue Kenya",
+      "url": "https://kenya.lsc-hubs.org/cat/csw"
+    },
+    {
+      "id": "Clay-Kenya",
+      "type": "wms-group",
+      "name": "Clay - Kenya",
+      "url": "https://kenya.lsc-hubs.org/ows/clay",
+      "perLayerLinkedWcs": { 
+        "linkedWcsUrl": "https://kenya.lsc-hubs.org/ows/clay"
+      }
+    },
+    {
+      "id": "Silt-Kenya",
+      "type": "wms-group",
+      "name": "Silt - Kenya",
+      "url": "https://kenya.lsc-hubs.org/ows/silt"
+    },
+    {
+      "id": "Sand-Kenya",
+      "type": "wms-group",
+      "name": "Sand - Kenya",
+      "url": "https://kenya.lsc-hubs.org/ows/sand"
+    },
+    {
+      "id": "CEC-Kenya",
+      "type": "wms-group",
+      "name": "CEC - Kenya",
+      "url": "https://kenya.lsc-hubs.org/ows/cec"
+    },
+    {
+      "id": "soc-Kenya",
+      "type": "wms-group",
+      "name": "Oranic Carbon - Kenya",
+      "url": "https://kenya.lsc-hubs.org/ows/soc"
+    },
+    {
+      "id": "PHH2O-Kenya",
+      "type": "wms-group",
+      "name": "PHH2O - Kenya",
+      "url": "https://kenya.lsc-hubs.org/ows/ph"
+    },
+    {
+      "id": "ExtrK-Kenya",
+      "type": "wms-group",
+      "name": "TotalN - Kenya",
+      "url": "https://kenya.lsc-hubs.org/ows/totN"
+    },
+    {
+      "id": "adm3",
+      "type": "wms-group",
+      "name": "Admin boundaries Kenya",
+      "url": "https://fertility.maps.isric.org/Kenya"
+    },{
+      "id": "clay_mean_0-20cm",
+      "type": "wms",
+      "layers": "clay_mean_0-20cm",
+      "name": "clay 0-20cm",
+      "url": "https://kenya.lsc-hubs.org/ows/clay",
+      "linkedWcsCoverage": "clay_mean_0-20cm",
+      "linkedWcsUrl": "https://kenya.lsc-hubs.org/ows/clay"
+    }
+  ],
+  "viewerMode": "2d",
+  "baseMaps": {
+    "defaultBaseMapId": "basemap-positron",
+    "previewBaseMapId": "basemap-positron"
+  }
+}
