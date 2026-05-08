@@ -10,6 +10,7 @@ project:
 
 website:
   favicon: /assets/images/favicon.svg
+  site-url: "https://kalro-ict.github.io/kensis/"
   repo-url: "https://github.com/kalro-ict/kensis"
   repo-actions:
     - edit
