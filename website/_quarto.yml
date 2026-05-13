@@ -32,8 +32,6 @@ website:
         file: "data/index.qmd"
       - text: Map Viewer
         file: "./map"
-      - text: Dashboard
-        file: "./dashboard.md"
       - text: Publications
         file: "./reports/index.qmd"
       - text: About

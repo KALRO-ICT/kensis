@@ -7,3 +7,6 @@ categories: ["Guidelines"]
 ---
 
 This manual is intended for direct use by soil surveyors engaged in soil mapping and classification in Kenya. The volume addresses itself to the methodolody followed by the Kenya Soil Survey staff during the execution of the various types of soil surveys. Its content is a reflcetion of the accumulative experience built up by the soil scientists who have worked with thte Kenya Soil Survey since the inception of the institution. The manual describes the standard methods in use, and should be followed by the soil scientists working in the field of soil mapping. It is the aim of the manual to obtain a certain degree of standardization, facilitating the production of useful and comparable soil maps and their interpretation. 
+
+
+[Download](https://kalroerepository.kalro.org/items/dc0a248d-0e57-448f-8eec-1a5b5a227d79){.btn .btn-primary}

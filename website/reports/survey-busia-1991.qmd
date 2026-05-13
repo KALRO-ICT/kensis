@@ -4,8 +4,6 @@ subtitle: (quarter degree sheet No. 101)
 description: "Results of a soil survey carried out in Busia area for multi-purpose land use planning"
 author: "J.R. Rachilo and D.O. Michieka"
 date: "1991-01-15"
-links:
-- url: "https://edepot.wur.nl/493413"
 categories: ["Soil survey"]
 ---
 
@@ -25,3 +23,4 @@ the soils are strongly weathered and are generally acid in nature due to the lea
 bases. They are dominantly low in calcium, potassium and organic matter and hence
 nitrogen.
 
+[Download](https://edepot.wur.nl/493413){.btn .btn-primary}

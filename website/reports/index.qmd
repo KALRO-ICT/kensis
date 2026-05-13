@@ -9,5 +9,6 @@ listing:
     type: grid
     categories: true
     sort: date-meta
-
+    contents: ./*.qmd
+    image-placeholder: ../img/soil-report.png
 ---
