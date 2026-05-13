@@ -6,12 +6,30 @@
     "north": 5.015253727850946
   },
   "catalog": [
-    {
-      "id": "Catalogue-kenya",
-      "type": "csw-group",
-      "name": "LSC Catalogue Kenya",
-      "url": "https://kenya.lsc-hubs.org/cat/csw"
-    },
+{
+  "name": "Soil Organic Carbon",
+  "description": "A dataset on predicted distribution of Soil Organic Carbon",
+  "type": "cog",
+  "url": "https://kalro-ict.github.io/kensis/maps/SOC_Kenya_cog.tif"
+},
+{
+  "name": "Soil pH",
+  "description": "A dataset on predicted distribution of Soil pH",
+  "type": "cog",
+  "url": "https://kalro-ict.github.io/kensis/maps/soilPH_Kenya_cog.tif"
+},
+{
+  "name": "Soil Phosphorus",
+  "description": "A dataset on predicted distribution of Phosphorus",
+  "type": "cog",
+  "url": "https://kalro-ict.github.io/kensis/maps/soilPhosphorus_Kenya_cog.tif"
+},
+{
+  "name": "Soil Potassium",
+  "description": "A dataset on predicted distribution of Potassium",
+  "type": "cog",
+  "url": "https://kalro-ict.github.io/kensis/maps/soilPotassium_Kenya_cog.tif"
+},
     {
       "id": "Clay-Kenya",
       "type": "wms-group",

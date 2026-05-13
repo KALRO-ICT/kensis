@@ -50,28 +50,30 @@ This is a foundational digital archive and information infrastructure offered by
 
 ## Explore Resources 
 
-## [Data](data/index.qmd)
+## Data
 
-Access soil data and maps from several soil survey missions across Kenya. The maps depict the predicted distribution of soil properties and soil health indicators, such as soil erosion risk, soil nutrient depletion, soil organic carbon decline, soil acidity, etc. [Read more about data](data.md)
+Access soil data and maps from several soil survey missions across Kenya. The maps depict the predicted distribution of soil properties and soil health indicators, such as soil erosion risk, soil nutrient depletion, soil organic carbon decline, soil acidity, etc. [Read more](data.md)
 
 ::: {#data}
 :::
 
-## [Publications](reports/index.qmd)
+## Publications
 
-Looking for published soil survey reports, guides, standard operating procedures and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service? Access them here [Read more about publications](publications.md)
+Looking for published soil survey reports, guides, standard operating procedures and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service? Access them here [Read more](publications.md)
 
 ::: {#reports}
 :::
 
-## [Linked Web Resources](./web-resources.md) 
+## Linked Web Resources 
 
- Access soil data and maps from other useful web resources from around the world, such as ISRIC's Soil Grids website, Africa Union's SIS, ISDA's website, etc. [Paul, we can put the links here ...] 
+ Access soil data and maps from other useful web resources from around the world, such as ISRIC's Soilgrids website, Africa Union's Soil Obeservatory, ISDA Soil, etc. [Read more](./web-resources.md)
 
 ::: {#resources}
 :::
 
 ## Interactive soil maps
+
+A collection of interactive soil maps for Kenya, including soil property maps, soil health indicator maps, soil erosion risk maps, etc. [Read more](./map)
 
 <div id="map" style="width:100%;height:350px" class="rounded shadow"><div id="popup" class="ol-popup" style="display:none;"></div></div>
 
