@@ -29,15 +29,7 @@
   "name": "Soil Potassium",
   "description": "A dataset on predicted distribution of Potassium",
   "type": "cog",
-  "url": "https://kalro-ict.github.io/kensis/maps/soilPotassium_Kenya_cog.tif",
-  "renderOptions": {
-    "single": {
-      "band": 0,
-      "colorMap": "viridis",
-      "colorScaleRange": [100, 500]
-    }
-  }
-  
+  "url": "https://kalro-ict.github.io/kensis/maps/soilPotassium_Kenya_cog.tif"
 },
     {
       "id": "Clay-Kenya",
