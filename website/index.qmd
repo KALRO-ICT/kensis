@@ -52,7 +52,7 @@ This is a foundational digital archive and information infrastructure offered by
 
 ## Data
 
-Access soil data and maps from several soil survey missions across Kenya. The maps depict the predicted distribution of soil properties and soil health indicators, such as soil erosion risk, soil nutrient depletion, soil organic carbon decline, soil acidity, etc. [Read more](data.md)
+Access data and maps of Kenyan soils, landscape and climate. The maps depict the predicted distribution of soil properties and soil health indicators, such as soil erosion risk, soil nutrient depletion, soil organic carbon decline, soil acidity, etc. [Read more](data.md)
 
 ::: {#data}
 :::
