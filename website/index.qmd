@@ -59,7 +59,7 @@ Access data and maps of Kenyan soils, landscape and climate. The maps depict the
 
 ## Publications
 
-Looking for published soil survey reports, guides, standard operating procedures and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service? Access them here [Read more](./reports/index.qmd)
+Looking for current and historical soil survey reports, as well as guidelines, standard operating procedures and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service? Access them here [Read more](./reports/index.qmd)
 
 ::: {#reports}
 :::
