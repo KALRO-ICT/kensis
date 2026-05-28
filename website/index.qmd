@@ -66,14 +66,14 @@ Looking for published soil survey reports, guides, standard operating procedures
 
 ## Linked Web Resources 
 
- Access soil data and maps from other useful web resources from around the world, such as ISRIC's Soilgrids website, Africa Union's Soil Obeservatory, ISDA Soil, etc. [Read more](./web-resources.md)
+Access soil data and maps from other useful web resources from around the world, such as ISRIC's SoilGrids website, Africa Union's Soil Observatory, ISDA Soil, etc. [Read more](./web-resources.md)
 
 ::: {#resources}
 :::
 
 ## Interactive soil maps
 
-A collection of interactive soil maps for Kenya, including soil property maps, soil health indicator maps, soil erosion risk maps, etc. [Open viewer](./map)
+View interactive maps of Kenyan soils and landscapes, including soil property maps, soil health indicator maps, soil erosion risk maps, etc. [Open Map Viewer](./map)
 
 <div id="map" style="width:100%;height:350px" class="rounded shadow"><div id="popup" class="ol-popup" style="display:none;"></div></div>
 
