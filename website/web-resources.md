@@ -12,3 +12,4 @@ Here you will be linked to other useful web-based resources from around the worl
 - [Wapor](https://www.fao.org/in-action/remote-sensing-for-water-productivity/en) remote sensing for water productivity
 - [GLOSIS](https://www.fao.org/global-soil-partnership/areas-of-work/soil-information-and-data/en/) FAO/GSP representation of a global soil information system
 - [GlOSOLAN](https://www.fao.org/global-soil-partnership/glosolan/en/) harmonization efforts in soil analysis procedures
+- [Soil Data of Africa](https://africasis.isric.org/) Continent-wide soil data and soil information relevant for sustainable intensification of agriculture in Africa, collected under the Soils4Africa project.
