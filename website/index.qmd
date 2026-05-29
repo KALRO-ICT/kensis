@@ -66,7 +66,7 @@ Looking for current and historical soil survey reports, as well as guidelines, s
 
 ## Linked Web Resources 
 
-Access soil data and maps from other useful web resources from around the world, such as ISRIC's SoilGrids website, Africa Union's Soil Observatory, ISDA Soil, etc. [Read more](./web-resources.md)
+Access soil data, information and maps from other useful web resources from around the world, such as ISRIC's SoilGrids, Africa Union's Soil Observatory, ISDA Soil, etc. [Read more](./web-resources.md)
 
 ::: {#resources}
 :::
