@@ -96,7 +96,7 @@ Kenya Soil Survey
 
 P.O. Box 14733 - 00800, Nairobi
 
-E-mail: [Soils.Survey@kalro.org](mailto:Soils.Survey@kalro.org).
+E-mail: [cd.narl@kalro.org](mailto:cd.narl@kalro.org).
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@10.7.0/ol.css">
 <link rel="stylesheet" href="https://unpkg.com/ol-layerswitcher@4.1.0/dist/ol-layerswitcher.css" />
