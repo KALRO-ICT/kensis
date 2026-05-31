@@ -2,7 +2,7 @@
 ---
 title: "Data"
 description: |
-  This is a compilation of printed maps and data on soils based on soil surveys conducted throughout the country since 1972. Some of the datasets are freely downloadable, while others may be accessed upon submission of requests.<br>
+  This is a compilation of printed maps and databases on soils based on soil surveys conducted throughout the country since 1972. Some of the datasets are freely downloadable, while others may be accessed upon submission of requests.<br>
 listing: 
   sort: "date desc"
   type: default
