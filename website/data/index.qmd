@@ -2,7 +2,7 @@
 ---
 title: "Data"
 description: |
-  Data include a compilation of both legacy and recent soil data points, information and printed maps. Some of the datasets are freely downloadable, while others may be accessed upon submission of requests.<br>
+  Access printed maps and data on soils based on soil surveys conducted throughout the country since 1972. Some of the datasets are freely downloadable, while others may be accessed upon submission of requests.<br>
 listing: 
   sort: "date desc"
   type: default
