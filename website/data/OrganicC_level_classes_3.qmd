@@ -14,3 +14,5 @@ categories:
 Soil organic C influences nutrient retention and turnover, microbial activity, soil structure, moisture retention and water availability, degradation of pollutants, resists acidification, and carbon sequestration. Soil organic C is considered low at < 1.33%; moderate at 1.33 – 2.66%, adequate at 2.66 – 5.32% and excessive when > 5.32%. This map shows that 75% of Kenyan soils have low organic C content. This implies that efforts need to be made to enhance the soil C levels through practices, such as fertilizer application including manures and composts, crop rotations, and cover cropping
 
 ![OrganicC_level_classes_3.jpg](OrganicC_level_classes_3.jpg)
+
+[Download data (4mb)](../maps/SOC_Kenya_cog.tif)

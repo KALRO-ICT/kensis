@@ -8,7 +8,7 @@ gdalwarp -t_srs EPSG:3857 -r bilinear -co COMPRESS=LZW -co BIGTIFF=IF_SAFER soil
 gdalwarp -t_srs EPSG:3857 -r bilinear -co COMPRESS=LZW -co BIGTIFF=IF_SAFER soilZinc_Kenya.tif soilZinc_Kenya_cog.tif -of cog
 ```
 
-get bounds and min/max
+get bounds and min/max -> used to apply style in 10 classes
 ```
 gdalinfo -mm SOC_Kenya_cog.tif
 ```

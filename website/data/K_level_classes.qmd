@@ -14,3 +14,5 @@ categories:
 Potassium is one of the essential macro-nutrients that plants require to grow. K contributes towards root growth, respiration, photosynthesis, drought tolerance and disease resistance. Potassium levels are classified as low (< 93.6 Mg/ kg K), 93.6-585 mg/ kg K and excess at > 585 mg/ kg K. This map shows that, in general, Kenyan soils have no K deficiency.
 
 ![K_level_classes.jpg](K_level_classes.jpg)
+
+[Download data (4mb)](../maps/soilPotassium_Kenya_cog.tif)

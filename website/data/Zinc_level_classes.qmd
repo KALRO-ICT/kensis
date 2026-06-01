@@ -14,3 +14,5 @@ categories:
 Zinc is important for plant growth and chlorophyll production. Optimal crop production range of Zn in soil is normally 5 – 20 mg/ kg. Below 5 mg/ kg Zn is considered deficient. This map shows that 69% of Kenyan soils are deficient in Zn, implying that Zn needs to be either directly applied or that fertilizers applied should be blended with Zn.
 
 ![Zinc_level_classes.jpg](Zinc_level_classes.jpg)
+
+[Download data (4mb)](../maps/soilZinc_Kenya_cog.tif)
