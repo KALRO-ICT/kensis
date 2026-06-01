@@ -74,7 +74,8 @@ async function loadCOGLayers() {
   await createCOGLayer('maps/soilPH_Kenya_cog.tif','Soil pH', 4.292, 8.962);
   await createCOGLayer('maps/soilPhosphorus_Kenya_cog.tif','Phosphorus', 2.602, 72.610);
   await createCOGLayer('maps/soilPotassium_Kenya_cog.tif','Potassium', 10.809, 546.157);
-
+  await createCOGLayer('maps/soilZinc_Kenya_cog.tif','Zinc', 10.809, 546.157);
+  
   // show first layer by default (SOC)
   if(cogLayers.length>0) cogLayers[0].layer.setVisible(true);
 
