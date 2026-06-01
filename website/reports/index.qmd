@@ -2,7 +2,7 @@
 pagetitle: Publications 
 title: Publications
 description: |
-  On this page you find a list of relevant soil survey reports, as well as guidelines and standard operating procedures for soil data collection, analysis, management, modelling, mapping, application and services.<br>
+  On this page you will find current and historical soil survey reports, as well as guidelines and standard operating procedures for soil data collection, analysis, management, modelling, mapping, application and services.<br>
 search: true
 repo-actions: false
 listing:

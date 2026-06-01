@@ -10,7 +10,8 @@
   "name": "Soil Organic Carbon",
   "description": "A dataset on predicted distribution of Soil Organic Carbon",
   "type": "cog",
-  "url": "https://kalro-ict.github.io/kensis/maps/SOC_Kenya_cog.tif"
+  "url": "https://kalro-ict.github.io/kensis/maps/SOC_Kenya_cog.tif",
+  
 },
 {
   "name": "Soil pH",
