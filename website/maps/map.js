@@ -70,11 +70,11 @@ async function createCOGLayer(fileName, title, minVal, maxVal) {
 
 // Load all COG layers with their min/max ranges
 async function loadCOGLayers() {
-  await createCOGLayer('maps/SOC_Kenya_cog.tif','SOC', 0.280, 4.674);
+  await createCOGLayer('maps/SOC_Kenya_cog.tif','SOC', 0.280, 4.671);
   await createCOGLayer('maps/soilPH_Kenya_cog.tif','Soil pH', 4.292, 8.962);
-  await createCOGLayer('maps/soilPhosphorus_Kenya_cog.tif','Phosphorus', 2.602, 72.610);
+  await createCOGLayer('maps/soilPhosphorus_Kenya_cog.tif','Phosphorus', 2.591, 72.517);
   await createCOGLayer('maps/soilPotassium_Kenya_cog.tif','Potassium', 10.809, 546.157);
-  await createCOGLayer('maps/soilZinc_Kenya_cog.tif','Zinc', 10.809, 546.157);
+  await createCOGLayer('maps/soilZinc_Kenya_cog.tif','Zinc', 0.881, 16.941);
   
   // show first layer by default (SOC)
   if(cogLayers.length>0) cogLayers[0].layer.setVisible(true);

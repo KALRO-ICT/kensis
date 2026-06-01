@@ -9,11 +9,10 @@ project:
     - "*.qmd"
 
 website:
-  favicon: /assets/images/favicon.svg
+  favicon: /img/kenya-soil-survey.png
   site-url: "https://kalro-ict.github.io/kensis/"
   repo-url: "https://github.com/kalro-ict/kensis"
   repo-actions:
-    - edit
     - issue
   page-footer:
     left:
