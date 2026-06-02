@@ -15,10 +15,9 @@ about:
 listing:
   - id: reports
     contents:
-    - /reports
+    - reports/*.qmd
     - "!reports/index.qmd"
     sort: "date desc"
-    image-placeholder: ./img/soil-report.png
     type: grid
     categories: false
     sort-ui: false
@@ -28,7 +27,7 @@ listing:
     
   - id: data
     contents: 
-    - /data
+    - data/*.qmd
     - "!data/index.qmd"
     image-placeholder: ./img/soil-dataset.png
     sort: "date desc"
@@ -59,7 +58,7 @@ Access data and maps of Kenyan soils, landscape and climate. The maps depict the
 
 ## Publications
 
-Looking for current and historical soil survey reports, as well as guidelines, standard operating procedures and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service? Access them here [Read more](./reports/index.qmd)
+Looking for current and historical soil survey reports, as well as guidelines, standard operating procedures and protocols for soil data collection, analysis, curation, management, modelling, mapping, application and service? [Access them here](./reports/index.qmd).
 
 ::: {#reports}
 :::
@@ -78,11 +77,11 @@ View interactive maps of Kenyan soils and landscapes, including soil property ma
 <script>
   
 const layerConfigs = [
-{id: 'soc',title: 'SOC',file: 'maps/SOC_Kenya.tif',min: 0.280,max: 4.671},
-{id: 'ph',title: 'Soil pH',file: 'maps/soilPH_Kenya.tif',min: 4.292,max: 8.962},
-{id: 'phosphorus',title: 'Phosphorus',file: 'maps/soilPhosphorus_Kenya.tif',min: 2.591,max: 72.517},
-{id: 'potassium',title: 'Potassium',file: 'maps/soilPotassium_Kenya.tif',min: 10.809,max: 546.157},
-{id: 'zinc',title: 'Zinc',file: 'maps/soilZinc_Kenya.tif',min: 0.881,max: 16.941}
+{id: 'soc',title: 'SOC (%)',file: 'maps/SOC_Kenya.tif'},
+{id: 'ph',title: 'Soil pH',file: 'maps/soilPH_Kenya.tif'},
+{id: 'phosphorus',title: 'Phosphorus (mg/kg)',file: 'maps/soilPhosphorus_Kenya.tif'},
+{id: 'potassium',title: 'Potassium (mg/kg)',file: 'maps/soilPotassium_Kenya.tif'},
+{id: 'zinc',title: 'Zinc (mg/kg)',file: 'maps/soilZinc_Kenya.tif'}
 ];  
 </script>
 
@@ -109,5 +108,8 @@ P.O. Box 14733 - 00800, Nairobi
 
 E-mail: [cd.narl@kalro.org](mailto:cd.narl@kalro.org).
 
-
-
+<style>
+#listing-reports .listing-item-img-placeholder {
+  display: none;
+}
+</style>
