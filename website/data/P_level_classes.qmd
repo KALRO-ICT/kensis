@@ -15,4 +15,4 @@ Phosphorus is one of the most important essential elements for plant growth. Som
 
 ![P_level_classes.jpg](P_level_classes.jpg)
 
-[Download data (4mb)](../maps/soilPhosphorus_Kenya_cog.tif)
+[Download data (4mb)](../maps/soilPhosphorus_Kenya.tif)

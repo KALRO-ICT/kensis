@@ -15,4 +15,4 @@ Potassium is one of the essential macro-nutrients that plants require to grow. K
 
 ![K_level_classes.jpg](K_level_classes.jpg)
 
-[Download data (4mb)](../maps/soilPotassium_Kenya_cog.tif)
+[Download data (4mb)](../maps/soilPotassium_Kenya.tif)

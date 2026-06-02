@@ -15,4 +15,4 @@ Zinc is important for plant growth and chlorophyll production. Optimal crop prod
 
 ![Zinc_level_classes.jpg](Zinc_level_classes.jpg)
 
-[Download data (4mb)](../maps/soilZinc_Kenya_cog.tif)
+[Download data (4mb)](../maps/soilZinc_Kenya.tif)

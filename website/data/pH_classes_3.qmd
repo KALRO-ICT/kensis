@@ -15,4 +15,4 @@ Soil pH, the measure of acidity or basicity, determines many biogeochemical func
 
 ![pH_classes_3.jpg](pH_classes_3.jpg)
 
-[Download data (4mb)](../maps/soilPH_Kenya_cog.tif)
+[Download data (4mb)](../maps/soilPH_Kenya.tif)

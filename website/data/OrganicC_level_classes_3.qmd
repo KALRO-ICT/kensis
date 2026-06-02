@@ -15,4 +15,4 @@ Soil organic C influences nutrient retention and turnover, microbial activity, s
 
 ![OrganicC_level_classes_3.jpg](OrganicC_level_classes_3.jpg)
 
-[Download data (4mb)](../maps/SOC_Kenya_cog.tif)
+[Download data (4mb)](../maps/SOC_Kenya.tif)
